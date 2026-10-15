@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rkkarthikiiitb.github.io/little-westies/sitemap.xml
