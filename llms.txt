@@ -1,0 +1,89 @@
+# Little Westies
+
+> Little Westies (littlewesties.au) is an independent, source-linked directory of kids' and family activities in Melbourne's west, Victoria, Australia: playgrounds, nature, swimming, free library programs, school holiday programs, big days out, kids' classes (sport, dance, music, martial arts) and birthday party venues and hire. Every listing links to its public source.
+
+Coverage: mainly the City of Melton and City of Brimbank, plus nearby western LGAs (Wyndham, Hobsons Bay, Maribyrnong, Moonee Valley/Keilor). Suburbs with listings: Aintree, Altona North, Brimbank, Brookfield, Burnside, Burnside Heights, Caroline Springs, Caroline Springs / Taylors Hill, Caroline Springs and Melton, City of Melton, Cobblebank, Cobblebank Stadium, Deanside, Deer Park, Deer Park Library, Diggers Rest, Eynesbury, Fraser Rise, Harkness, Hillside, Hoppers Crossing, Keilor, Keilor Downs, Keilor East, Keilor North, Keilor Park, Kurunjang, Laverton, Manor Lakes, Maribyrnong, Melton, Melton (Bridge Road Children's Community Centre), Melton (Kurunjang), Melton South, Melton West, Near Bacchus Marsh, Plumpton, Point Cook, Ravenhall, Ravenhall (Caroline Springs), Ravenhall / Hillside, Ravenhall, near Caroline Springs (Unit 5/94 Eucumbene Drive), Rockbank, School sites, Spotswood, St Albans, Strathtulloh, Sunshine, Sunshine West, Tarneit, Taylors Hill, Taylors Hill, Caroline Springs, Fraser Rise, Plumpton and more, Taylors Lakes, Thornhill Park, Toolern Vale, Truganina, Truganina (City of Melton), Truganina (trains at 29 Federation Blvd, Tarneit), Truganina, Point Cook, Werribee and more, Various venues, Weir Views, Werribee, West Sunshine.
+
+Notes for agents: "not listed"/null means the provider did not publish that detail; do not infer it. Prices and times change, so point users to the source_url. Paid sponsor placements, when they exist, are labelled "Featured"/"Sponsored". Please cite "Little Westies (littlewesties.au)".
+
+## Sections
+
+- [Home](https://littlewesties.au/index.html): Overview of free and local kids' activities in Melbourne's west
+- [Playgrounds & parks](https://littlewesties.au/parks.html): Playgrounds & parks for kids in Melton, Brimbank and nearby (33 listings)
+- [Nature & bush](https://littlewesties.au/nature.html): Nature & bush for kids in Melton, Brimbank and nearby (3 listings)
+- [Swimming lessons](https://littlewesties.au/swimming.html): Swimming lessons for kids in Melton, Brimbank and nearby (7 listings)
+- [Free & library](https://littlewesties.au/free.html): Free & library for kids in Melton, Brimbank and nearby (22 listings)
+- [School holiday programs](https://littlewesties.au/holidays.html): School holiday programs for kids in Melton, Brimbank and nearby (12 listings)
+- [Big days out](https://littlewesties.au/days.html): Big days out for kids in Melton, Brimbank and nearby (3 listings)
+- [Kids' classes](https://littlewesties.au/classes.html): Sport, dance, music and martial arts classes (126 listings), filterable by suburb and age
+- [Sport classes](https://littlewesties.au/classes-sport.html): Kids' sport clubs and classes (62 listings)
+- [Dance classes](https://littlewesties.au/classes-dance.html): Kids' dance clubs and classes (16 listings)
+- [Music classes](https://littlewesties.au/classes-music.html): Kids' music clubs and classes (10 listings)
+- [Martial arts classes](https://littlewesties.au/classes-martial-arts.html): Kids' martial arts clubs and classes (15 listings)
+- [Art classes](https://littlewesties.au/classes-art.html): Kids' art clubs and classes (2 listings)
+- [Drama classes](https://littlewesties.au/classes-drama.html): Kids' drama clubs and classes (2 listings)
+- [Tutoring classes](https://littlewesties.au/classes-tutoring.html): Kids' tutoring clubs and classes (12 listings)
+- [Early learning classes](https://littlewesties.au/classes-early-learning.html): Kids' early learning clubs and classes (7 listings)
+- [Birthday parties & party hire](https://littlewesties.au/parties.html): Play centres, magic shows, balloon artists, jumping castles, face painting and caterers (21 listings)
+- [Kids party venues in Melton](https://littlewesties.au/kids-party-venues-melton.html): Melton-area party venues and hire compared by published price, with FAQ
+- [This weekend in Melbourne's west](https://littlewesties.au/weekend.html): Verified kids' and family events across Melton, Wyndham, Brimbank and the inner west for Sat 24 – Sun 25 Oct 2026, with cancellations noted; refreshed weekly
+- [Kids activities in Caroline Springs](https://littlewesties.au/kids-activities-caroline-springs.html): Parks, free library sessions, swimming, sport, dance, music, tutoring and party listings in Caroline Springs and Burnside Heights, grouped by category with FAQ
+- [Swimming lessons in Melton](https://littlewesties.au/swimming-lessons-melton.html): Melton swim schools (Melton Waves, Melton Swim School, Paul Sadler Swimland) with published ages and source links
+- [Swimming lessons in Truganina](https://littlewesties.au/swimming-lessons-truganina.html): Truganina swim schools (BlueFit $23.00/lesson; JUMP! coming soon) with addresses and source links
+- [Playgrounds in Melton](https://littlewesties.au/playgrounds-melton.html): City of Melton playgrounds and play spaces from Melton City Council pages, with facilities and source links
+- [This school holidays](https://littlewesties.au/school-holidays.html): Summer 2026–27 school holiday programs and Victorian term dates
+- [How we check listings](https://littlewesties.au/about.html): How each listing is checked against its public source, what last verified means, re-check goals and how to report an error
+- [Kids Activities in Melton: Sport, Dance & Martial Arts](https://littlewesties.au/kids-activities-melton.html): 28 kids activities in Melton, including sport, dance, martial arts and parties, each checked against its public source.
+- [Kids Activities in Truganina: Sport, Parks & Free Sessions](https://littlewesties.au/kids-activities-truganina.html): 24 kids activities in Truganina, including sport, parks, free sessions and swimming, each checked against its public source.
+- [Kids Activities in Aintree: Parks, Sport & Swimming](https://littlewesties.au/kids-activities-aintree.html): 8 kids activities in Aintree, including parks, sport and swimming, each checked against its public source.
+- [Kids Activities in Hoppers Crossing: Swimming, Sport & Tutoring](https://littlewesties.au/kids-activities-hoppers-crossing.html): 8 kids activities in Hoppers Crossing, including swimming, sport, tutoring and parties, each checked against its public source.
+- [Kids Activities in Ravenhall: Martial Arts, Parties & Sport](https://littlewesties.au/kids-activities-ravenhall.html): 8 kids activities in Ravenhall, including martial arts, parties, sport and music, each checked against its public source.
+- [Kids Activities in Taylors Hill: Parks, Martial Arts & Holiday Programs](https://littlewesties.au/kids-activities-taylors-hill.html): 8 kids activities in Taylors Hill, including parks, martial arts, holiday programs and parties, each checked against its public source.
+- [Kids Activities in Deer Park: Parks, Free Sessions & Swimming](https://littlewesties.au/kids-activities-deer-park.html): 6 kids activities in Deer Park, including parks, free sessions, swimming and sport, each checked against its public source.
+- [Kids Activities in Hillside: Parks, Swimming & Sport](https://littlewesties.au/kids-activities-hillside.html): 6 kids activities in Hillside, including parks, swimming and sport, each checked against its public source.
+- [Kids Activities in Sunshine: Martial Arts, Parks & Swimming](https://littlewesties.au/kids-activities-sunshine.html): 6 kids activities in Sunshine, including martial arts, parks, swimming and parties, each checked against its public source.
+- [Kids Activities in Werribee: Sport, Tutoring & Parties](https://littlewesties.au/kids-activities-werribee.html): 5 kids activities in Werribee, including sport, tutoring and parties, each checked against its public source.
+- [Kids' classes in Aintree](https://littlewesties.au/classes-aintree.html): 4 kids' classes in Aintree, including Aintree Cricket Club (Aintree Stallions) and Aintree Soccer Club, each checked against its public source.
+- [Kids' classes in Caroline Springs](https://littlewesties.au/classes-caroline-springs.html): 22 kids' classes in Caroline Springs, including BK's Gymnastics Caroline Springs, each checked against its public source.
+- [Kids' classes in Deer Park](https://littlewesties.au/classes-deer-park.html): 3 kids' classes in Deer Park, including Deer Park Football Club Juniors and Kumon Deer Park Education Centre, each checked against its public source.
+- [Kids' classes in Hoppers Crossing](https://littlewesties.au/classes-hoppers-crossing.html): 6 kids' classes in Hoppers Crossing, including BK's Gymnastics Hoppers Crossing, each checked against its public source.
+- [Kids' classes in Melton](https://littlewesties.au/classes-melton.html): 18 kids' classes in Melton, including DD Taekwondo, Dancesport Westside and Empower Jiu Jitsu Melton, each checked against its public source.
+- [Kids' classes in Point Cook](https://littlewesties.au/classes-point-cook.html): 3 kids' classes in Point Cook, including JUMP! Swim Schools Point Cook and Kumon Point Cook Education Centre, each checked against its public source.
+- [Kids' classes in Ravenhall](https://littlewesties.au/classes-ravenhall.html): 5 kids' classes in Ravenhall, including CS Music drama lessons and Caroline Springs School of Music, each checked against its public source.
+- [Kids' classes in Rockbank](https://littlewesties.au/classes-rockbank.html): 3 kids' classes in Rockbank, including Aintree Music, Natyatharu School of Dance and Rockbank Kindergarten, each checked against its public source.
+- [Kids' classes in St Albans](https://littlewesties.au/classes-st-albans.html): 4 kids' classes in St Albans, including Ballet Play & Ballet Beginnings and Grant's Taekwondo St Albans, each checked against its public source.
+- [Kids' classes in Sunshine](https://littlewesties.au/classes-sunshine.html): 3 kids' classes in Sunshine, including Hall's Taekwondo Sunshine and Samurai Karate Sunshine, each checked against its public source.
+- [Kids' classes in Tarneit](https://littlewesties.au/classes-tarneit.html): 3 kids' classes in Tarneit, including JUMP! Swim Schools Tarneit and Kumon Tarneit Education Centre, each checked against its public source.
+- [Kids' classes in Taylors Lakes](https://littlewesties.au/classes-taylors-lakes.html): 4 kids' classes in Taylors Lakes, including Kinderballet Taylors Lakes and Overnewton Auskick Centre, each checked against its public source.
+- [Kids' classes in Truganina](https://littlewesties.au/classes-truganina.html): 13 kids' classes in Truganina, including BlueFit Swimming Truganina and Brooks School of Dance (Truganina), each checked against its public source.
+- [Kids' classes in Werribee](https://littlewesties.au/classes-werribee.html): 3 kids' classes in Werribee, including Kumon Werribee Education Centre and Little Kickers Werribee, each checked against its public source.
+- [Swimming lessons in Hoppers Crossing](https://littlewesties.au/swimming-lessons-hoppers-crossing.html): 4 swimming lessons and swim schools in Hoppers Crossing, including AquaPulse (WynSwim lessons), each checked against its public source.
+- [Playgrounds and parks in Aintree](https://littlewesties.au/playgrounds-aintree.html): 4 playgrounds and parks in Aintree, including Aintree Recreation Reserve and Aintree Town Centre Reserve, each checked against its public source.
+- [Playgrounds and parks in Caroline Springs](https://littlewesties.au/playgrounds-caroline-springs.html): 3 playgrounds and parks in Caroline Springs, including Cypress Views Village Park, each checked against its public source.
+- [Playgrounds and parks in Hillside](https://littlewesties.au/playgrounds-hillside.html): 4 playgrounds and parks in Hillside, including Allenby Road Reserve and Hillside Recreation Reserve, each checked against its public source.
+- [Playgrounds and parks in Taylors Hill](https://littlewesties.au/playgrounds-taylors-hill.html): 3 playgrounds and parks in Taylors Hill, including Addicott Way Reserve and Barwon Street Reserve, each checked against its public source.
+- [Playgrounds and parks in Truganina](https://littlewesties.au/playgrounds-truganina.html): 3 playgrounds and parks in Truganina, including Alcock Road Reserve and Altezze Drive Reserve, each checked against its public source.
+- [Free kids' activities in Caroline Springs](https://littlewesties.au/free-activities-caroline-springs.html): 4 free library sessions and playgroups in Caroline Springs, each checked against its public source.
+- [Free kids' activities in Truganina](https://littlewesties.au/free-activities-truganina.html): 3 free library sessions and playgroups in Truganina, including Baby Time, Truganina Library Lounge, each checked against its public source.
+- [Kids' parties in Caroline Springs](https://littlewesties.au/parties-caroline-springs.html): 3 party venues and party services in Caroline Springs, including Chipmunks Playland & Cafe Caroline Springs, each checked against its public source.
+- [Claim or update a listing](https://littlewesties.au/claim.html): How providers correct or claim their listing
+- [Sponsor](https://littlewesties.au/sponsor.html): Sponsorship options (paid spots are always labelled)
+
+## Data
+
+- [All listings, JSON](https://littlewesties.au/data/listings.json): parks, nature, swimming, free, holidays and days-out listings
+- [Classes, JSON](https://littlewesties.au/data/classes.json): kids' classes with suburb, address, ages, days, price, website
+- [Parties, JSON](https://littlewesties.au/data/parties.json): party venues and hire with area served, ages, price
+- [This weekend's events, JSON](https://littlewesties.au/data/events.json): dated family events with venue, suburb, price, ages and source url (refreshed weekly)
+- [Full text for LLMs](https://littlewesties.au/llms-full.txt): every listing in plain markdown
+- [Sitemap](https://littlewesties.au/sitemap.xml)
+
+## Freshness
+
+- Last updated: 2026-10-24
+- Listings checked against sources between 2026-10-15 and 2026-10-24
+- Each record carries its own last_checked date. The site is rebuilt whenever listings change.
+
+## Optional
+
+- Contact / corrections: hello@littlewesties.au
