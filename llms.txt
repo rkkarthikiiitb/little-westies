@@ -24,7 +24,7 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 - [Drama classes](https://littlewesties.au/classes-drama.html): Kids' drama clubs and classes (2 listings)
 - [Tutoring classes](https://littlewesties.au/classes-tutoring.html): Kids' tutoring clubs and classes (12 listings)
 - [Early learning classes](https://littlewesties.au/classes-early-learning.html): Kids' early learning clubs and classes (7 listings)
-- [Birthday parties & party hire](https://littlewesties.au/parties.html): Play centres, magic shows, balloon artists, jumping castles, face painting and caterers (26 listings)
+- [Birthday parties & party hire](https://littlewesties.au/parties.html): Play centres, magic shows, balloon artists, jumping castles, face painting and caterers (30 listings)
 - [Kids party venues in Melton](https://littlewesties.au/kids-party-venues-melton.html): Melton-area party venues and hire compared by published price, with FAQ
 - [Kids party venues in Hoppers Crossing](https://littlewesties.au/kids-party-venues-hoppers-crossing.html): Six Hoppers Crossing party venues compared by published price and age, with FAQ
 - [Kids party venues in Werribee](https://littlewesties.au/kids-party-venues-werribee.html): Five Werribee party venues compared by published price and age, with FAQ
@@ -69,6 +69,7 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 - [Free kids' activities in Truganina](https://littlewesties.au/free-activities-truganina.html): 3 free library sessions and playgroups in Truganina, including Baby Time, Truganina Library Lounge, each checked against its public source.
 - [Kids' parties in Caroline Springs](https://littlewesties.au/parties-caroline-springs.html): 3 party venues and party services in Caroline Springs, including Chipmunks Playland & Cafe Caroline Springs, each checked against its public source.
 - [Kids' parties in Hoppers Crossing](https://littlewesties.au/parties-hoppers-crossing.html): 6 party venues and party services in Hoppers Crossing, including BK's Gymnastics Hoppers Crossing parties, each checked against its public source.
+- [Kids' parties in Werribee](https://littlewesties.au/parties-werribee.html): 5 party venues and party services in Werribee, including BouncyRoos at Werribee Indoor Sports, each checked against its public source.
 - [Claim or update a listing](https://littlewesties.au/claim.html): How providers correct or claim their listing
 - [Sponsor](https://littlewesties.au/sponsor.html): Sponsorship options (paid spots are always labelled)
 
@@ -83,8 +84,8 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 
 ## Freshness
 
-- Last updated: 2026-11-03
-- Listings checked against sources between 2026-10-15 and 2026-11-02
+- Last updated: 2026-11-10
+- Listings checked against sources between 2026-10-15 and 2026-11-10
 - Each record carries its own last_checked date. The site is rebuilt whenever listings change.
 
 ## Optional

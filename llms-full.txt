@@ -1,6 +1,6 @@
 # Little Westies: all listings
 
-> Kids' activities in Melbourne's west, Victoria, Australia. Source: https://littlewesties.au/ . Generated 2026-11-03. Missing fields were not published by the source.
+> Kids' activities in Melbourne's west, Victoria, Australia. Source: https://littlewesties.au/ . Generated 2026-11-10. Missing fields were not published by the source.
 
 ## Activities and places
 
@@ -1968,6 +1968,50 @@
 - Website: https://www.werribeeindoorsports.com.au/
 - Source: https://www.werribeeindoorsports.com.au/inflatable-party
 - Last checked: 2026-10-18
+
+### Werribee Open Range Zoo kids parties
+- Category: Birthday parties & party hire
+- Type: Activity parties
+- Area served: Werribee (Werribee Open Range Zoo)
+- Ages: Two to ten (as listed)
+- Price: Additional child $50; base package price: check with venue (package includes catering for 10 children and $80 on adult catering)
+- About: Kids party packages at the zoo for groups of 10-40 children: sessions 10am-12.30pm or 1.30pm-3.45pm, with a food and beverage attendant, child-friendly menu, electronic invitations, biscuit decorating, colouring, cake cutting, two complimentary adult admission tickets, complimentary child access any day of the year and a Safari Bus. Named spaces: Meerkat Bistro, Elephant Trail, Hippo Boma and Chongola Hut. Package includes room/venue hire, catering for 10 children and $80 on adult catering. Members receive 10% off food and beverage.
+- Website: https://www.zoo.org.au/werribee/
+- Source: https://www.zoo.org.au/werribee/functions/kids-parties/
+- Last checked: 2026-11-10
+
+### Fizz Kidz Werribee Studio
+- Category: Birthday parties & party hire
+- Type: Activity parties
+- Area served: Werribee (T5, Harpley Town Center, Bradfield St)
+- Ages: 4–12 (Fizz Kidz brand-wide pricing)
+- Price: $480 for 12 children (1.5 hours; extra child $40, max 28); $636 for 12 children (2 hours; extra child $53); party food $84 for 12 ($7 extra child) (Fizz Kidz brand-wide pricing, checked 10 Nov 2026)
+- About: Hosted birthday parties at the Werribee studio (Werribee is listed among the seven Fizz Kidz studios on the brand parties page): 1.5-hour (two creations) or 2-hour (three creations) exclusive-studio parties with two hosts, dancing and party games and take-home creation bags; party food is optional, or you can bring your own. Themes include slime, science, art and craft. Holiday programs are also offered on the location page. Friday 4.30pm or 6.30pm; Saturday-Sunday 10am, 12pm, 2.30pm and 4.30pm (as listed on the brand parties page).
+- Website: https://www.fizzkidz.com.au/locations/werribee/
+- Source: https://www.fizzkidz.com.au/birthday-parties/
+- Last checked: 2026-11-10
+
+### Bumble Beez Indoor Playcentre & Cafe
+- Category: Birthday parties & party hire
+- Type: Play centres
+- Area served: Werribee (27 Loop Road)
+- Ages: 0–6 years (Bumble Beez is a 0–6 centre)
+- Price: $50 non-refundable deposit within 14 days to confirm; package price: check with venue. Private hire $800 for 2.5 hours ($200 non-refundable deposit) (checked 10 Nov 2026)
+- About: Indoor play centre birthday parties; themed parties and out-of-hours parties are listed on the venue page. Private after-hours centre hire is also listed. Tue-Sun hours are on the venue page.
+- Website: https://www.bumblebeezpc.com.au/
+- Source: https://www.bumblebeezpc.com.au/
+- Last checked: 2026-11-10
+
+### Timezone Werribee
+- Category: Birthday parties & party hire
+- Type: Activity parties
+- Area served: Werribee (Pacific Werribee Shopping Centre, Cnr Derrimut Rd & Heaths Rd, 3030)
+- Ages: From 5 (Timezone-wide minimum)
+- Price: Check with venue
+- About: Dedicated party rooms and birthday/group party packages with a party host; arcade games, laser tag and PIXEL at Pacific Werribee Shopping Centre. National party pages say packages and attractions vary by venue; Werribee-specific package prices are not on the venue page.
+- Website: https://www.timezonegames.com/en-au/venues/vic/timezone-werribee/
+- Source: https://www.timezonegames.com/en-au/venues/vic/timezone-werribee/
+- Last checked: 2026-11-10
 
 ### Kidz Digz Indoor Play Centre
 - Category: Birthday parties & party hire
