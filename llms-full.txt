@@ -1,6 +1,6 @@
 # Little Westies: all listings
 
-> Kids' activities in Melbourne's west, Victoria, Australia. Source: https://littlewesties.au/ . Generated 2026-11-10. Missing fields were not published by the source.
+> Kids' activities in Melbourne's west, Victoria, Australia. Source: https://littlewesties.au/ . Generated 2026-11-11. Missing fields were not published by the source.
 
 ## Activities and places
 
@@ -127,14 +127,18 @@
 ### Melton Waves Leisure Centre
 - Category: Swimming lessons
 - Suburb: Melton
-- About: Wave pool, warm water pool, 25 m indoor pool, seasonal 50 m outdoor pool and swim school. Note (checked 24 Oct 2026): the centre's site says the wave and toddler pools are now open again after an earlier closure.
+- Address: 206 Coburns Road, Melton VIC 3337
+- About: Wave pool, warm water pool, 25 m indoor pool, seasonal 50 m outdoor pool and swim school.
+- Website: https://www.meltonwaves.com.au/learn-to-swim
 - Source: https://www.meltonwaves.com.au/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Sunshine Leisure Centre swimming lessons
 - Category: Swimming lessons
 - Suburb: Sunshine
+- Days/terms: One 30-minute lesson per week
 - About: Brimbank Leisure Centres learn-to-swim program.
+- Website: https://slc.brimbank.vic.gov.au/aquatics/swimming-lessons
 - Source: https://slc.brimbank.vic.gov.au/aquatics/swimming-lessons
 - Last checked: 2026-10-15
 
@@ -148,9 +152,10 @@
 ### AquaPulse (WynSwim lessons)
 - Category: Swimming lessons
 - Suburb: Hoppers Crossing
+- Address: 80-82 Derrimut Rd, Hoppers Crossing 3029
 - About: Wyndham aquatic centre at 80–82 Derrimut Rd, run by WynActive.
 - Source: https://wynactive.com.au/visit/aquapulse/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Preschool Storytime, Caroline Springs Library
 - Category: Free & library
@@ -294,33 +299,42 @@
 ### Lake Caroline Waterfront
 - Category: Playgrounds & parks
 - Suburb: Caroline Springs
+- Address: The Esplanade, Caroline Springs 3023
 - Price: Free
 - About: 1.9 km path around the lake, play equipment at Boathouse Reserve and Lake Caroline Reserve, BBQ, picnic facilities and drinking fountain.
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Lake-Caroline-Waterfront
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### Melton Swim School (at Genesis Fitness Melton)
 - Category: Swimming lessons
 - Suburb: Melton
+- Address: Inside Genesis Fitness Melton
+- Ages: Children of all ages, plus adults
 - About: Swim and Survive (Royal Life Saving) lessons for children of all ages and adults; book by phone on 03 9747 4000.
+- Website: https://www.meltonswimschool.com.au/
 - Source: https://www.meltonswimschool.com.au/childrens-lessons.html
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### JUMP! Swim Schools Truganina
 - Category: Swimming lessons
 - Suburb: Truganina
-- Price: Coming soon
-- About: Boutique heated indoor pool at 2/25 Infinity Drive; parent-and-child classes from 6 months to 4 years, then independent swimmers and stroke development. JUMP's website lists this centre as coming soon, so check before booking.
+- Address: 2/25 Infinity Drive, Truganina; ph 0456 225 593
+- Ages: From 6 months
+- Days/terms: 7 days a week; morning and afternoon sessions
+- Price: $23.50 per lesson
+- About: Boutique heated indoor pool at 2/25 Infinity Drive, with parent-and-child classes for babies, then independent swimmers and stroke development.
+- Website: https://jumpswimschools.com.au/locations/truganina/
 - Source: https://jumpswimschools.com.au/locations/truganina/
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### Baby Bounce, Melton City Libraries
 - Category: Free & library
 - Suburb: Caroline Springs and Melton
+- Ages: 0–12 months, with a parent or carer
 - Price: Free
 - About: Stories and songs for babies 0–12 months. Caroline Springs Library: Tue 10–10.30am and Wed 11.30am–12pm; Melton Library: Tue and Wed 11.30am–12pm. School terms, no booking.
 - Source: https://www.melton.vic.gov.au/Out-n-About/Libraries-and-learning/Libraries/Library-Programs-and-Events
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### After Schooligans, Melton City Libraries
 - Category: Free & library
@@ -341,9 +355,10 @@
 ### Burnside Busy Kids Playgroup
 - Category: Free & library
 - Suburb: Burnside
+- Ages: 0–5 years
 - About: Community playgroup for families with children 0–5 at Burnside Children's & Community Centre, 23 Lexington Drive. Mondays 10.30am–12pm.
 - Source: https://www.melton.vic.gov.au/Services/People/Families-and-children/Playgroups/Community-playgroups
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### YMCA Kororoit Creek Playgroup
 - Category: Free & library
@@ -513,7 +528,7 @@
 - Price: Free
 - About: Wyndham reserve at 49 Mainview Boulevard with a playground, BBQs, public toilet, outdoor exercise equipment and dog park beside two ovals.
 - Source: https://www.wyndham.vic.gov.au/venues/mainview-boulevard-reserve-truganina
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### Alcock Road Reserve
 - Category: Playgrounds & parks
@@ -521,15 +536,17 @@
 - Price: Free
 - About: Wyndham sports reserve at 73 Alcock Road with a playground, BBQ facilities and public toilet, plus soccer pitches, cricket ovals and tennis courts.
 - Source: https://www.wyndham.vic.gov.au/venues/alcock-road-reserve-truganina
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### BlueFit Swimming Truganina
 - Category: Swimming lessons
 - Suburb: Truganina
-- Price: $23.00 per lesson ($46 per fortnight)
+- Address: 90 Elmhurst Road, Truganina VIC; ph 1300 252 583
+- Price: $23.00 per lesson ($46.00 per fortnight)
 - About: Learn-to-swim at 90 Elmhurst Road with small classes, make-up lessons and multi-child discounts.
+- Website: https://www.bluefitswimming.com.au/
 - Source: https://www.bluefitswimming.com.au/enrolment-request-truganina
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### YMCA Taylors Hill School Holiday Program
 - Category: School holiday programs
@@ -612,18 +629,20 @@
 ### Arnolds Creek Recreation Reserve
 - Category: Playgrounds & parks
 - Suburb: Harkness
+- Address: 37 Claret Ash Boulevard, Harkness 3337
 - Price: Free
 - About: 37 Claret Ash Boulevard. Natural play space with dry creek bed and sensory garden, play tower with rope climbing and slides, flying fox, accessible spinner, BBQ and toilets.
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Arnolds-Creek-Recreation-Reserve
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ### Norm Raven Reserve
 - Category: Playgrounds & parks
 - Suburb: Diggers Rest
+- Address: 28-38 Glitter Road, Diggers Rest 3427
 - Price: Free
 - About: 28-38 Glitter Road. Playground closed for an upgrade; council expects completion in November 2026. Also BBQ, picnic tables and a basketball half court.
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Norm-Raven-Reserve
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ## Kids' classes
 
@@ -657,7 +676,7 @@
 - Days/terms: Enrolment open all year
 - Website: https://bksgymnastics.com.au/centre/caroline-springs/
 - Source: https://bksgymnastics.com.au/centre/caroline-springs/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Gymnastics Unlimited Australia
 - Category: Sport
@@ -668,7 +687,7 @@
 - Days/terms: Term-based assessment
 - Website: https://www.gymnastics-unlimited.com.au/
 - Source: https://www.gymnastics-unlimited.com.au/gymnastics-for-beginners.php
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### JUMP! Swim Schools Caroline Springs
 - Category: Sport
@@ -688,7 +707,7 @@
 - Ages: Kids
 - Website: https://www.stateswim.com.au/our-swim-schools/caroline-springs/
 - Source: https://www.stateswim.com.au/our-swim-schools/caroline-springs/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ### Kingswim Caroline Springs
 - Category: Sport
@@ -708,7 +727,7 @@
 - Ages: Kids (small classes)
 - Website: https://www.littleswimmersswimschool.com.au/
 - Source: https://www.littleswimmersswimschool.com.au/locations/deer-park
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Paul Sadler Swimland Melton
 - Category: Sport
@@ -726,7 +745,7 @@
 - Suburb: Melton
 - Website: https://www.meltonwaves.com.au/learn-to-swim
 - Source: https://www.meltonwaves.com.au/learn-to-swim
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Sunshine Leisure Centre Swim School
 - Category: Sport
@@ -755,7 +774,7 @@
 - Ages: Junior teams
 - Website: https://www.carolinespringsfc.com.au/
 - Source: https://www.melton.vic.gov.au/Out-n-About/Local-Directory-Listing/Caroline-Springs-Football-Club
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Overnewton Auskick Centre
 - Category: Sport
@@ -824,7 +843,7 @@
 - Ages: MiniRoos (boys)
 - Website: https://georgecrossfc.com.au/football/
 - Source: https://georgecrossfc.com.au/football/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### PEGS Soccer Club
 - Category: Sport
@@ -913,10 +932,11 @@
 - Category: Sport
 - Type: Tennis
 - Suburb: Caroline Springs
+- Address: Caroline Springs Leisure Centre, 9-19 The Parade, Caroline Springs 3023
 - Ages: Juniors (competition and coaching)
 - Website: https://play.tennis.com.au/CarolineSpringsTennisCentre
 - Source: https://www.melton.vic.gov.au/Out-n-About/Local-Directory-Listing/Caroline-Springs-Tennis-Club
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Kurunjang Park Tennis Club
 - Category: Sport
@@ -926,7 +946,7 @@
 - Days/terms: Saturday WRTA junior competition
 - Website: https://play.tennis.com.au/kurunjangparktennisclub
 - Source: https://play.tennis.com.au/kurunjangparktennisclub
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Stephanie's House of Dance
 - Category: Dance
@@ -936,7 +956,7 @@
 - Days/terms: Classes run at Caroline Springs and Keilor Downs
 - Website: https://www.stephanieshouseofdance.com.au/
 - Source: https://www.stephanieshouseofdance.com.au/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Creations Studio of Dance
 - Category: Dance
@@ -987,7 +1007,7 @@
 - Ages: From 18 months
 - Website: https://westendperformingarts.com.au/
 - Source: https://westendperformingarts.com.au/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Sunshine Dance Centre
 - Category: Dance
@@ -1012,10 +1032,11 @@
 - Category: Dance
 - Type: Dance, circus, aerial
 - Suburb: Melton
+- Address: 39 Collins Road, Melton 3337; ph (03) 9743 7773
 - Ages: From 2.5
 - Website: https://www.galacticdance.au/
 - Source: https://www.galacticdance.au/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Instyle Dance Company
 - Category: Dance
@@ -1104,11 +1125,12 @@
 - Category: Martial arts
 - Type: Karate
 - Suburb: Melton
+- Address: 11 Holland Drive, Melton VIC 3337; ph 0433 314 799
 - Ages: From 3
 - Price: Free trial class
 - Website: https://www.gkrkarate.com/locations/listing/gkr-karate-melton-prime/
 - Source: https://www.gkrkarate.com/locations/listing/gkr-karate-melton-prime/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Shindo Karate Melton
 - Category: Martial arts
@@ -1123,10 +1145,11 @@
 - Category: Martial arts
 - Type: Taekwondo
 - Suburb: Sunshine
-- Ages: Little Taeks 4–6 and older
+- Address: 178 Duke Street, Sunshine VIC 3020
+- Ages: 4–6, 7–14 and 15+
 - Website: https://www.hallstaekwondo.com.au/facilities/sunshine
 - Source: https://www.hallstaekwondo.com.au/facilities/sunshine
-- Last checked: 2026-10-15
+- Last checked: 2026-11-11
 
 ### Grant's Taekwondo St Albans
 - Category: Martial arts
@@ -1228,21 +1251,21 @@
 - Type: Swimming
 - Suburb: Melton
 - Address: Inside Genesis Fitness Melton
-- Ages: Children of all ages
+- Ages: Children of all ages, plus adults
 - Website: https://www.meltonswimschool.com.au/
 - Source: https://www.meltonswimschool.com.au/childrens-lessons.html
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### JUMP! Swim Schools Truganina
 - Category: Sport
 - Type: Swimming
 - Suburb: Truganina
-- Address: 2/25 Infinity Drive, Truganina
+- Address: 2/25 Infinity Drive, Truganina; ph 0456 225 593
 - Ages: From 6 months
-- Days/terms: Coming soon (per JUMP website)
+- Days/terms: 7 days a week; morning and afternoon sessions
 - Website: https://jumpswimschools.com.au/locations/truganina/
 - Source: https://jumpswimschools.com.au/locations/truganina/
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### FLIP Gymnastics Truganina
 - Category: Sport
@@ -1307,7 +1330,7 @@
 - Price: Free trial class
 - Website: https://www.energydanceco.com.au/
 - Source: https://www.energydanceco.com.au/
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### Dancesport Westside
 - Category: Dance
@@ -1368,11 +1391,11 @@
 - Category: Sport
 - Type: Swimming
 - Suburb: Truganina
-- Address: 90 Elmhurst Road, Truganina
-- Price: $23.00 per lesson
+- Address: 90 Elmhurst Road, Truganina VIC; ph 1300 252 583
+- Price: $23.00 per lesson ($46.00 per fortnight)
 - Website: https://www.bluefitswimming.com.au/
 - Source: https://www.bluefitswimming.com.au/enrolment-request-truganina
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### Melton City Little Athletics Centre
 - Category: Sport
@@ -1383,7 +1406,7 @@
 - Days/terms: Sunday 9am competition; Wednesday 5.30pm twilight (summer season from 4 Oct 2026)
 - Website: https://meltoncitylac.org.au/
 - Source: https://meltoncitylac.org.au/
-- Last checked: 2026-10-21
+- Last checked: 2026-11-11
 
 ### Melton Football Club Juniors Auskick
 - Category: Sport
@@ -1674,7 +1697,7 @@
 - Days/terms: Mon–Thu 9am–7pm; Sat–Sun 8.30am–12.30pm; Fri closed
 - Website: https://www.paulsadlerswimland.com/locations-contact/
 - Source: https://www.paulsadlerswimland.com/locations-contact/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ### Paul Sadler Swimland Parkwood Green
 - Category: Sport
@@ -1694,7 +1717,7 @@
 - Days/terms: Mon–Fri 8.45am–7.45pm; Sat–Sun 7.30am–3pm
 - Website: https://www.paulsadlerswimland.com/locations-contact/
 - Source: https://www.paulsadlerswimland.com/locations-contact/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ### Kingswim Manor Lakes
 - Category: Sport
@@ -1728,7 +1751,7 @@
 - Price: $25 per lesson
 - Website: https://jumpswimschools.com.au/locations/point-cook/
 - Source: https://jumpswimschools.com.au/locations/point-cook/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ### JUMP! Swim Schools Tarneit
 - Category: Sport
@@ -1737,10 +1760,10 @@
 - Address: Building 6, 672 Leakes Road, Tarneit; ph 0437 735 198
 - Ages: From 3 months
 - Days/terms: 7 days a week
-- Price: $23 per lesson weekdays, $25 weekends
+- Price: $23.00 per lesson weekdays, $25.00 weekends; adult lesson $25.00; private lesson $70.00
 - Website: https://jumpswimschools.com.au/locations/tarneit/
 - Source: https://jumpswimschools.com.au/locations/tarneit/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ### BK's Gymnastics Hoppers Crossing
 - Category: Sport
@@ -1787,7 +1810,7 @@
 - Price: $24 per lesson
 - Website: https://jumpswimschools.com.au/locations/diggers-rest/
 - Source: https://jumpswimschools.com.au/locations/diggers-rest/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ### Paul Sadler Swimland Altona
 - Category: Sport
@@ -1797,7 +1820,7 @@
 - Ages: Kids
 - Website: https://www.paulsadlerswimland.com/locations-contact/
 - Source: https://www.paulsadlerswimland.com/locations-contact/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ### Paul Sadler Swimland Laverton
 - Category: Sport
@@ -1877,7 +1900,7 @@
 - Days/terms: Mon and Thu 3:30–7pm
 - Website: https://www.kumonsearch.com.au/Centre/Kumon-Hoppers-Crossing-VIC
 - Source: https://www.kumonsearch.com.au/Centre/Kumon-Hoppers-Crossing-VIC
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ### Kumon Point Cook Education Centre
 - Category: Tutoring
@@ -1925,20 +1948,22 @@
 - Category: Birthday parties & party hire
 - Type: Play centres
 - Area served: Caroline Springs (Level 4/173 Caroline Springs Blvd)
+- Price: Party packages $270 for 8 guests; play entry from $10.95
 - About: Indoor play centre parties with themed decorations, food, a private party room, a dedicated party host, entry and unlimited play; private venue hire also offered. Toddler zone for under 3s is listed for general play. General admission from $10.95 per child (checked 22 Oct 2026).
 - Website: https://funtasticau.com/
 - Source: https://funtasticau.com/play-centre-caroline-springs/
-- Last checked: 2026-10-18
+- Last checked: 2026-11-11
 
 ### Zebraland
 - Category: Birthday parties & party hire
 - Type: Play centres
 - Area served: Melton (1/88 High Street)
+- Address: 1/88 High Street, Melton VIC 3337
 - Price: Bronze package for 8 kids (base price not shown on packages page, 22 Oct 2026); extra kids $24.50
 - About: Eat, play and party centre with Bronze, Silver and Gold birthday packages: 2 hours of private party room time, kids' entry valid for the whole day, unlimited cordial and water and party food; choice of 3 party rooms.
 - Website: https://zebraland.com.au/
 - Source: https://zebraland.com.au/party-packages/
-- Last checked: 2026-10-18
+- Last checked: 2026-11-11
 
 ### Lollipop's Playland & Cafe Sunshine
 - Category: Birthday parties & party hire
@@ -1947,7 +1972,7 @@
 - About: Indoor birthday parties in themed Jungle, Princess, Kawaii or Superhero rooms with Classic, Lollipops, Premium or Ultimate packages, party invitations, hats, a dedicated host and party food; private after-hours hire also listed.
 - Website: https://sunshine.lollipopsplayland.com.au/
 - Source: https://sunshine.lollipopsplayland.com.au/party-package/
-- Last checked: 2026-10-18
+- Last checked: 2026-11-11
 
 ### Crocs Playcentre Hoppers Crossing
 - Category: Birthday parties & party hire
@@ -2084,7 +2109,7 @@
 - About: Super Pro Balloon Twisting for kids' parties, with balloon creations made on the spot; 1-hour booking listed for fewer than 10 children, longer bookings for larger groups. Magic shows and face painting also listed.
 - Website: https://balloonaversal.com.au/
 - Source: https://balloonaversal.com.au/kids-parties-melbourne/balloon-twisting-melbourne/
-- Last checked: 2026-10-18
+- Last checked: 2026-11-11
 
 ### The Party Girl World - Sunshine
 - Category: Birthday parties & party hire
@@ -2189,7 +2214,7 @@
 - About: Two-hour pool parties at the council leisure centre: first hour of pool activities (Toddler party in the wave pool), second hour of food at a reserved table then free time in the leisure pool. Includes hot chips, cordial and water, lolly bags and two food items. Min 10 kids (Toddler max 15, other package max 30); subject to staff availability, book at least 2 weeks ahead.
 - Website: https://www.meltonwaves.com.au/
 - Source: https://www.meltonwaves.com.au/birthday-party
-- Last checked: 2026-10-22
+- Last checked: 2026-11-11
 
 ### Xplosions Bar & Bowl
 - Category: Birthday parties & party hire

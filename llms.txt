@@ -35,16 +35,16 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 - [Playgrounds in Melton](https://littlewesties.au/playgrounds-melton.html): City of Melton playgrounds and play spaces from Melton City Council pages, with facilities and source links
 - [This school holidays](https://littlewesties.au/school-holidays.html): Summer 2026–27 school holiday programs and Victorian term dates
 - [How we check listings](https://littlewesties.au/about.html): How each listing is checked against its public source, what last verified means, re-check goals and how to report an error
-- [Kids Activities in Melton: Sport, Dance & Martial Arts](https://littlewesties.au/kids-activities-melton.html): 28 kids activities in Melton, including sport, dance, martial arts and parties, each checked against its public source.
-- [Kids Activities in Truganina: Sport, Parks & Free Sessions](https://littlewesties.au/kids-activities-truganina.html): 24 kids activities in Truganina, including sport, parks, free sessions and swimming, each checked against its public source.
-- [Kids Activities in Hoppers Crossing: Parties, Swimming & Sport](https://littlewesties.au/kids-activities-hoppers-crossing.html): 13 kids activities in Hoppers Crossing, including parties, swimming, sport and tutoring, each checked against its public source.
-- [Kids Activities in Aintree: Parks, Sport & Swimming](https://littlewesties.au/kids-activities-aintree.html): 8 kids activities in Aintree, including parks, sport and swimming, each checked against its public source.
-- [Kids Activities in Ravenhall: Martial Arts, Parties & Sport](https://littlewesties.au/kids-activities-ravenhall.html): 8 kids activities in Ravenhall, including martial arts, parties, sport and music, each checked against its public source.
-- [Kids Activities in Taylors Hill: Parks, Martial Arts & Holiday Programs](https://littlewesties.au/kids-activities-taylors-hill.html): 8 kids activities in Taylors Hill, including parks, martial arts, holiday programs and parties, each checked against its public source.
-- [Kids Activities in Deer Park: Parks, Free Sessions & Swimming](https://littlewesties.au/kids-activities-deer-park.html): 6 kids activities in Deer Park, including parks, free sessions, swimming and sport, each checked against its public source.
-- [Kids Activities in Hillside: Parks, Swimming & Sport](https://littlewesties.au/kids-activities-hillside.html): 6 kids activities in Hillside, including parks, swimming and sport, each checked against its public source.
-- [Kids Activities in Sunshine: Martial Arts, Parks & Swimming](https://littlewesties.au/kids-activities-sunshine.html): 6 kids activities in Sunshine, including martial arts, parks, swimming and parties, each checked against its public source.
-- [Kids Activities in Werribee: Sport, Tutoring & Parties](https://littlewesties.au/kids-activities-werribee.html): 5 kids activities in Werribee, including sport, tutoring and parties, each checked against its public source.
+- [Kids Activities in Melton (2026): Sport](https://littlewesties.au/kids-activities-melton.html): 28 kids activities in Melton, including sport, dance, martial arts and parties, each checked against its public source.
+- [Kids Activities in Truganina (2026): Sport](https://littlewesties.au/kids-activities-truganina.html): 24 kids activities in Truganina, including sport, parks, free sessions and swimming, each checked against its public source.
+- [Kids Activities in Hoppers Crossing (2026)](https://littlewesties.au/kids-activities-hoppers-crossing.html): 13 kids activities in Hoppers Crossing, including parties, swimming, sport and tutoring, each checked against its public source.
+- [Kids Activities in Aintree (2026): Parks](https://littlewesties.au/kids-activities-aintree.html): 8 kids activities in Aintree, including parks, sport and swimming, each checked against its public source.
+- [Kids Activities in Ravenhall (2026): Sport](https://littlewesties.au/kids-activities-ravenhall.html): 8 kids activities in Ravenhall, including martial arts, parties, sport and music, each checked against its public source.
+- [Kids Activities in Taylors Hill (2026)](https://littlewesties.au/kids-activities-taylors-hill.html): 8 kids activities in Taylors Hill, including parks, martial arts, holiday programs and parties, each checked against its public source.
+- [Kids Activities in Deer Park (2026): Parks](https://littlewesties.au/kids-activities-deer-park.html): 6 kids activities in Deer Park, including parks, free sessions, swimming and sport, each checked against its public source.
+- [Kids Activities in Hillside (2026): Parks](https://littlewesties.au/kids-activities-hillside.html): 6 kids activities in Hillside, including parks, swimming and sport, each checked against its public source.
+- [Kids Activities in Sunshine (2026): Parks](https://littlewesties.au/kids-activities-sunshine.html): 6 kids activities in Sunshine, including martial arts, parks, swimming and parties, each checked against its public source.
+- [Kids Activities in Werribee (2026): Sport](https://littlewesties.au/kids-activities-werribee.html): 5 kids activities in Werribee, including sport, tutoring and parties, each checked against its public source.
 - [Kids' classes in Aintree](https://littlewesties.au/classes-aintree.html): 4 kids' classes in Aintree, including Aintree Cricket Club (Aintree Stallions) and Aintree Soccer Club, each checked against its public source.
 - [Kids' classes in Caroline Springs](https://littlewesties.au/classes-caroline-springs.html): 22 kids' classes in Caroline Springs, including BK's Gymnastics Caroline Springs, each checked against its public source.
 - [Kids' classes in Deer Park](https://littlewesties.au/classes-deer-park.html): 3 kids' classes in Deer Park, including Deer Park Football Club Juniors and Kumon Deer Park Education Centre, each checked against its public source.
@@ -84,8 +84,8 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 
 ## Freshness
 
-- Last updated: 2026-11-10
-- Listings checked against sources between 2026-10-15 and 2026-11-10
+- Last updated: 2026-11-11
+- Listings checked against sources between 2026-10-15 and 2026-11-11
 - Each record carries its own last_checked date. The site is rebuilt whenever listings change.
 
 ## Optional
