@@ -2,7 +2,7 @@
  "source": "Little Westies",
  "url": "https://littlewesties.au/",
  "dataset": "classes",
- "generated": "2026-11-11",
+ "generated": "2026-11-14",
  "licence_note": "Facts summarised from each provider's public source; please cite Little Westies (littlewesties.au) and the source_url. null = not published by the source.",
  "count": 126,
  "items": [
@@ -97,18 +97,22 @@
    "subcategory": "Swimming",
    "suburb": "Caroline Springs",
    "area_served": null,
-   "address": "1042 Western Hwy, Caroline Springs",
+   "address": "1042 Western Highway, Caroline Springs VIC 3023",
    "ages": "Babies and kids",
    "days": null,
    "hours": null,
-   "price": null,
+   "price": "$24.50 per lesson",
    "description": null,
-   "facts": null,
+   "facts": [
+    "JUMP! describes this as a new location: boutique learn-to-swim lessons for babies from 3 months, children and adults in a warm, purpose-built indoor pool.",
+    "Classes run 7 days a week, with morning and afternoon sessions, and group and private lessons.",
+    "Levels run from Baby Water Play (3–6 months) and Duckling (6–10 months) to Marlin stroke development."
+   ],
    "website": "https://jumpswimschools.com.au/locations/caroline-springs/",
    "source_url": "https://jumpswimschools.com.au/locations/caroline-springs/",
-   "facts_source_url": null,
+   "facts_source_url": "https://jumpswimschools.com.au/locations/caroline-springs/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "State Swim Caroline Springs",
@@ -478,12 +482,16 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "For junior domestic competition vacancies, families contact the clubs directly. Melton Basketball lists 14 junior domestic clubs.",
+    "Examples: Caroline Springs Basketball Academy trains Mondays at Caroline Springs Leisure Centre; Knights and Spartans train at Melton Indoor Recreation Centre.",
+    "Clubs train at different venues across Melton, from Thornhill Park Primary to Cobblebank Stadium, and most list a contact email or Facebook page."
+   ],
    "website": "https://www.meltonbasketball.com.au/playbasketball",
    "source_url": "https://www.meltonbasketball.com.au/junior-clubs",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.meltonbasketball.com.au/junior-clubs",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Caroline Springs Cricket Club",
@@ -681,12 +689,16 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Classes by age: Teeny (1.5–2.5 years, danced with a grown-up), Tiny Tots (2–3), Pre-Ballet (3–4), Ballet (4–5) and Elementary (5–8, adding jazz and lyrical).",
+    "Weekend and afternoon classes are available; trials and enrolment are booked online.",
+    "The end-of-year recital runs for around an hour, designed for little ones."
+   ],
    "website": "https://tinytutus.com.au/pages/melbourne-ballet-classes",
    "source_url": "https://tinytutus.com.au/pages/melbourne-ballet-classes",
-   "facts_source_url": null,
+   "facts_source_url": "https://tinytutus.com.au/pages/melbourne-ballet-classes",
    "page_url": "https://littlewesties.au/classes-dance.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Kinderballet Taylors Lakes",
@@ -719,12 +731,17 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Performing arts classes for 4–7 year olds, run by term: one class a week of 1.5 to 2.25 hours.",
+    "Saturdays: Foundation and Beginners OnStage rehearsals. Class divisions are based strictly on birthdate.",
+    "Next classes start February 2027; auditions for the Melbourne 4-Year-Old Foundation Program are scheduled for February 2027.",
+    "There's a car park next door and street parking in Stevenson Crescent."
+   ],
    "website": "https://stageschool.com.au/locations/caroline-springs",
    "source_url": "https://stageschool.com.au/locations/caroline-springs",
-   "facts_source_url": null,
+   "facts_source_url": "https://stageschool.com.au/locations/caroline-springs",
    "page_url": "https://littlewesties.au/classes-dance.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "WestEnd Performing Arts",
@@ -876,16 +893,20 @@
    "area_served": null,
    "address": "9 Commercial Rd, Caroline Springs",
    "ages": "4–7; 8–15",
-   "days": null,
+   "days": "Mon–Thu and Saturday",
    "hours": null,
-   "price": "$49 two-week intro program (as advertised)",
+   "price": "$49 for 2 weeks' training plus a free uniform (intro offer)",
    "description": null,
-   "facts": null,
+   "facts": [
+    "Age-banded classes: Little Samurai (4–7), Juniors (8–15) and Adults (16+). Traditional Shukokai karate with self-defence.",
+    "Little Samurai classes run for 40 minutes (9–9.40am or 5.30–6.10pm on the timetable).",
+    "Junior classes (8–14 on the timetable) are grouped by belt: Novice (white to yellow), Intermediate (orange to blue) and Advanced (purple and above)."
+   ],
    "website": "https://samuraikarate.com/caroline-springs-dojo-vic/",
    "source_url": "https://samuraikarate.com/caroline-springs-dojo-vic/",
-   "facts_source_url": null,
+   "facts_source_url": "https://samuraikarate.com/caroline-springs-dojo-vic/",
    "page_url": "https://littlewesties.au/classes-martial-arts.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Samurai Karate Sunshine",
@@ -995,16 +1016,20 @@
    "area_served": null,
    "address": null,
    "ages": "Little Ninjas and Mighty Ninjas 4–6; junior classes by belt",
-   "days": null,
+   "days": "Tue & Thu at Staughton College; Wed & Sat at Murrum Primary School; Fri at Arnolds Creek Primary School",
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Classes run 5 days a week across three Melton schools, led by Sempai Annie Noble (2nd Dan, Level 2 NCAS coach).",
+    "Class groups: Little Ninjas (4–6, white to red/blue belt), Mighty Ninjas (4–6, red belt and above), then Junior Beginners, Intermediate and Advanced by belt.",
+    "New students can register for 2 free lessons."
+   ],
    "website": "https://shindokarate.com.au/karate-melton/",
    "source_url": "https://shindokarate.com.au/karate-melton/",
-   "facts_source_url": null,
+   "facts_source_url": "https://shindokarate.com.au/karate-melton/",
    "page_url": "https://littlewesties.au/classes-martial-arts.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Hall's Taekwondo Sunshine",
@@ -1079,12 +1104,16 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Bambino Beats is the school's toddler music program for children aged 10 months to 4 years, in small groups.",
+    "Toddlers are introduced to a range of instruments, with Curwen hand-sign and solfege singing drawing on Kodaly, Orff and Dalcroze methods.",
+    "All students are encouraged to perform at the end-of-year concert."
+   ],
    "website": "https://www.carolinespringsschoolofmusic.com.au/",
    "source_url": "https://www.carolinespringsschoolofmusic.com.au/toddlers-program",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.carolinespringsschoolofmusic.com.au/toddlers-program",
    "page_url": "https://littlewesties.au/classes-music.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "The Music Hub Academy",
@@ -1095,15 +1124,18 @@
    "address": "46 Smith St, Melton VIC 3337",
    "ages": "All ages",
    "days": null,
-   "hours": null,
+   "hours": "Mon–Fri 12–8pm, Sat 10am–2pm",
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Describes itself as Melton's oldest running music school, teaching all ages and abilities.",
+    "Lessons cover drums, guitar, bass, ukulele and banjo, piano and violin, with chances to perform on stage."
+   ],
    "website": "https://www.themusichubacademy.com/",
    "source_url": "https://www.themusichubacademy.com/",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.themusichubacademy.com/",
    "page_url": "https://littlewesties.au/classes-music.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Trill Music Studio",
@@ -1117,12 +1149,17 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Singing and piano/keyboard lessons in Caroline Springs, private or in groups, plus online lessons. Founded in 2008.",
+    "Group piano/keyboard lessons have 3–5 students.",
+    "Students can prepare for AMEB and ANZCA exams, and the studio holds half-yearly and end-of-year concerts.",
+    "All teachers hold a current Working with Children Check."
+   ],
    "website": "https://www.trillmusicstudio.com.au/",
    "source_url": "https://www.trillmusicstudio.com.au/",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.trillmusicstudio.com.au/",
    "page_url": "https://littlewesties.au/classes-music.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Music Education Academy",
@@ -1193,12 +1230,16 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Music classes for babies, toddlers and preschoolers aged 6 months to 5 years at Springside Community Centre, Becca Way.",
+    "Children sing, dance, play percussion instruments and musical games, in a planned, sequential program.",
+    "The program introduces beat, rhythm, dynamics, form and notation, and supports speech, listening, social and physical skills."
+   ],
    "website": "https://www.melton.vic.gov.au/Out-n-About/Local-Directory-Listing/Mini-Maestros-Caroline-Springs",
    "source_url": "https://www.melton.vic.gov.au/Out-n-About/Local-Directory-Listing/Mini-Maestros-Caroline-Springs",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Out-n-About/Local-Directory-Listing/Mini-Maestros-Caroline-Springs",
    "page_url": "https://littlewesties.au/classes-music.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Global Taekwondo",
@@ -1388,12 +1429,17 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Kids' classes run on Mondays and Fridays, with different styles each day and a discount for attending both.",
+    "Classes run every week, even during school holidays. Styles include ballroom, Latin, New Vogue, street Latin, ballet, jazz and lyrical.",
+    "Tiny Dancers is on Fridays at 4.30pm for children who walk independently.",
+    "Casual classes with no joining fees; off-street parking and an enclosed garden area."
+   ],
    "website": "https://dancesportwestside.com/",
    "source_url": "https://dancesportwestside.com/",
-   "facts_source_url": null,
+   "facts_source_url": "https://dancesportwestside.com/",
    "page_url": "https://littlewesties.au/classes-dance.html",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Dance Crew Melton",
@@ -1580,14 +1626,19 @@
    "ages": "Kids piano 5–14; also adults",
    "days": "Piano for kids: Fri 12:00, Tue 4:30pm, Wed 4:30pm (as listed)",
    "hours": null,
-   "price": null,
+   "price": "$35 per piano lesson (listed down from $50)",
    "description": null,
-   "facts": null,
+   "facts": [
+    "Kids' piano lessons for ages 5–14 at the Truganina studio, following the AMEB curriculum.",
+    "Listed lesson times: Fri 12pm, Tue 4.30pm and Wed 4.30pm.",
+    "Kids' guitar lessons (6–14) are also listed at $35.",
+    "The site showed an early-bird offer of 20% off before 20 November."
+   ],
    "website": "https://musicmolecule.com/",
    "source_url": "https://musicmolecule.com/product/pian-premier-atleast-8-years-old/",
-   "facts_source_url": null,
+   "facts_source_url": "https://musicmolecule.com/product/pian-premier-atleast-8-years-old/",
    "page_url": "https://littlewesties.au/classes-music.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Aintree Tennis Club",
@@ -1734,12 +1785,16 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Acting lessons from experienced performers covering creativity, elocution and performance confidence.",
+    "Students take part in regular stage performances, assessments and excursions.",
+    "No trial lessons or one-off bookings."
+   ],
    "website": "https://www.carolinespringsschoolofmusic.com.au/drama-lessons",
    "source_url": "https://www.carolinespringsschoolofmusic.com.au/drama-lessons",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.carolinespringsschoolofmusic.com.au/drama-lessons",
    "page_url": "https://littlewesties.au/classes-drama.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "PerformX Academy",
@@ -1753,12 +1808,16 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Singing, acting and dance in one program for ages 4–15, with weekly classes in Werribee and Truganina.",
+    "Programs by age: Xplorer (4–6), Xcelerate (7–10) and Xpression (11–15), plus Xceptional for 15–18.",
+    "PerformX runs a free Discovery Day for new families."
+   ],
    "website": "https://www.performxacademy.com.au/locations/tarneit",
    "source_url": "https://www.performxacademy.com.au/locations/tarneit",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.performxacademy.com.au/locations/tarneit",
    "page_url": "https://littlewesties.au/classes-drama.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Kumon Melton Education Centre",
@@ -1843,17 +1902,21 @@
    "suburb": "Caroline Springs",
    "area_served": null,
    "address": "Brookside Central, Office 4, 9-12 Federation Way, Caroline Springs VIC 3023",
-   "ages": "Primary and secondary",
+   "ages": "Kindergarten to Year 12",
    "days": "In person and online",
-   "hours": null,
+   "hours": "Mon–Thu 4–7pm, Sat 10am–1pm",
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Maths and English tutoring: a structured program from Kindergarten to Year 10, with tutor-led support built around school subjects for Years 11 and 12.",
+    "Every new student starts with a free assessment and a personalised learning plan, taught in small groups.",
+    "Families pay week to week with no lock-in contract, and can book, pause or cancel sessions in the app. In-centre or online."
+   ],
    "website": "https://successtutoring.com.au/caroline-springs-tutoring",
    "source_url": "https://successtutoring.com.au/caroline-springs-tutoring",
-   "facts_source_url": null,
+   "facts_source_url": "https://successtutoring.com.au/caroline-springs-tutoring",
    "page_url": "https://littlewesties.au/classes-tutoring.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Kip McGrath Caroline Springs",
@@ -2122,12 +2185,17 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Foundation baby lessons for under-3s are parent-and-baby classes; kids' lessons run from beginner (Independent) through Competent to Graduate.",
+    "Kingswim checks progress regularly, so children move up when they're ready rather than only at the end of term.",
+    "A free trial lesson can be booked at any Melbourne Kingswim centre.",
+    "Squad swimming follows the learn-to-swim program, and adult lessons are also offered."
+   ],
    "website": "https://kingswim.com.au/locations/melbourne",
    "source_url": "https://kingswim.com.au/locations/melbourne",
-   "facts_source_url": null,
+   "facts_source_url": "https://kingswim.com.au/locations/melbourne",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "JUMP! Swim Schools Melton South",
@@ -2369,12 +2437,16 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Four age-based programs: Little Kicks (18 months to 2½ years), Junior Kickers (2½ to 3½), Mighty Kickers (3½ to 5) and Mega Kickers (5 to 8th birthday).",
+    "One of five Little Kickers Melbourne Outer West venues: Bemin Secondary College (Truganina), Eagle Stadium (Werribee), Jamieson Way Community Sports Hall (Point Cook), Nearnung Primary School (Tarneit) and Transition Sports (Hoppers Crossing).",
+    "Little Kickers also runs football-themed birthday parties and programs in child care centres."
+   ],
    "website": "https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/",
    "source_url": "https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Little Kickers Tarneit",
@@ -2388,12 +2460,16 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Four age-based programs: Little Kicks (18 months to 2½ years), Junior Kickers (2½ to 3½), Mighty Kickers (3½ to 5) and Mega Kickers (5 to 8th birthday).",
+    "One of five Little Kickers Melbourne Outer West venues: Bemin Secondary College (Truganina), Eagle Stadium (Werribee), Jamieson Way Community Sports Hall (Point Cook), Nearnung Primary School (Tarneit) and Transition Sports (Hoppers Crossing).",
+    "Little Kickers also runs football-themed birthday parties and programs in child care centres."
+   ],
    "website": "https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/",
    "source_url": "https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Little Kickers Hoppers Crossing",
@@ -2407,12 +2483,16 @@
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "Four age-based programs: Little Kicks (18 months to 2½ years), Junior Kickers (2½ to 3½), Mighty Kickers (3½ to 5) and Mega Kickers (5 to 8th birthday).",
+    "One of five Little Kickers Melbourne Outer West venues: Bemin Secondary College (Truganina), Eagle Stadium (Werribee), Jamieson Way Community Sports Hall (Point Cook), Nearnung Primary School (Tarneit) and Transition Sports (Hoppers Crossing).",
+    "Little Kickers also runs football-themed birthday parties and programs in child care centres."
+   ],
    "website": "https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/",
    "source_url": "https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Kumon Werribee Education Centre",

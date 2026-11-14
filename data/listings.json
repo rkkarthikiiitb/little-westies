@@ -2,7 +2,7 @@
  "source": "Little Westies",
  "url": "https://littlewesties.au/",
  "dataset": "listings",
- "generated": "2026-11-11",
+ "generated": "2026-11-14",
  "licence_note": "Facts summarised from each provider's public source; please cite Little Westies (littlewesties.au) and the source_url. null = not published by the source.",
  "count": 80,
  "items": [
@@ -88,18 +88,21 @@
    "subcategory": null,
    "suburb": "Aintree",
    "area_served": null,
-   "address": null,
+   "address": "3 Lim Way, Aintree 3336",
    "ages": null,
    "days": null,
    "hours": null,
    "price": "Free",
    "description": "Town-centre park with seating, shelter and a water play feature (council says it is switched off over winter and resumes in warmer weather).",
-   "facts": null,
+   "facts": [
+    "A park within the Aintree town centre shopping precinct with seating, shelter, a drinking fountain and a water play feature.",
+    "Council says the water play was turned off for winter and will resume later in 2026 as the warm weather returns."
+   ],
    "website": null,
    "source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation",
    "page_url": "https://littlewesties.au/parks.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Anghor Drive Reserve",
@@ -164,18 +167,21 @@
    "subcategory": null,
    "suburb": "Aintree",
    "area_served": null,
-   "address": null,
+   "address": "2 Fields Street, Aintree 3336",
    "ages": null,
    "days": null,
    "hours": null,
    "price": "Free",
    "description": "Multi-use reserve with tennis, netball and basketball courts, cricket nets, sports fields, a skate park and toilets.",
-   "facts": null,
+   "facts": [
+    "Frontier Park playground, with water play, and Frontier Park Pavilion sit within Aintree Recreation Reserve.",
+    "Council is repairing the Frontier Park playground tower roof in two stages so the playground is ready for the summer holidays: the water play park stays open in stage one (up to four weeks) and closes in stage two (up to two weeks)."
+   ],
    "website": null,
    "source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Frontier-Park",
    "page_url": "https://littlewesties.au/parks.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Isabella Williams Memorial Reserve",
@@ -183,18 +189,22 @@
    "subcategory": null,
    "suburb": "Deer Park",
    "area_served": null,
-   "address": null,
+   "address": "151 Neale Road, Deer Park",
    "ages": null,
    "days": null,
    "hours": null,
    "price": "Free",
    "description": "Listed by Brimbank Council among parks around Deer Park.",
-   "facts": null,
+   "facts": [
+    "Brimbank lists it as a flagship park.",
+    "The centrepiece is a large 'volcano' with tall climbing walls, nets and three long slides, including a yellow covered twisted slide.",
+    "A path network runs through the adjoining grasslands to Kororoit Creek Reserve."
+   ],
    "website": null,
    "source_url": "https://www.brimbank.vic.gov.au/explore-brimbank/parks-and-nature/parks-and-playgrounds/parks-around-deer-park",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.brimbank.vic.gov.au/explore-brimbank/parks-and-nature/parks-and-playgrounds/parks-around-deer-park",
    "page_url": "https://littlewesties.au/parks.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Buckingham Reserve",
@@ -343,15 +353,19 @@
    "address": null,
    "ages": null,
    "days": null,
-   "hours": null,
+   "hours": "Aquatic facilities Mon–Fri 6am–8.30pm, weekends 8am–6.30pm; public holidays typically 9am–5pm (pools close 4.30pm)",
    "price": null,
    "description": "Swim school with a waitlist.",
-   "facts": null,
+   "facts": [
+    "The swim school is at capacity. New families join an online waitlist, which the centre says runs about 2–3 months depending on level.",
+    "Sunshine Leisure Centre has classes available for all levels; enquire with swimschool@brimbank.vic.gov.au.",
+    "The centre also has waterslides (Mon–Fri 4–7pm, weekends 10am–5pm) and a splash park (Mon–Fri 9am–7pm, weekends 8am–6pm)."
+   ],
    "website": null,
    "source_url": "https://bawc.brimbank.vic.gov.au/aquatics/swim-school-waitlist",
-   "facts_source_url": null,
+   "facts_source_url": "https://bawc.brimbank.vic.gov.au/aquatics/swim-school-waitlist",
    "page_url": "https://littlewesties.au/swimming.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "AquaPulse (WynSwim lessons)",
@@ -478,18 +492,23 @@
    "subcategory": null,
    "suburb": "Melton (Bridge Road Children's Community Centre)",
    "area_served": null,
-   "address": null,
+   "address": "Bridge Road Children's & Community Centre, 260–266 Bridge Road, Strathtulloh 3338",
    "ages": null,
    "days": null,
    "hours": null,
-   "price": "$94.50/day (summer 2026–27)",
+   "price": "$94.50 per day flat rate, plus excursion/incursion charges",
    "description": "Holiday care for primary-aged kids, 7am–6pm weekdays. Summer 2026–27 is a flat $94.50 per day plus excursions; Child Care Subsidy may apply.",
-   "facts": null,
+   "facts": [
+    "Runs Monday to Friday, 7am–6pm, during the Victorian school holidays; book any single day or the whole program.",
+    "Child Care Subsidy is deducted from the invoice for eligible families. It isn't an NDIS service.",
+    "Council said summer 2026–27 dates, activities and booking details will be released soon.",
+    "Places are allocated under council's access guidelines for families who live, work or send children to primary school in the City of Melton; families from outside may also apply, and late bookings may attract a fee."
+   ],
    "website": null,
    "source_url": "https://www.melton.vic.gov.au/Services/People/Families-and-children/Childcare-0-12/Vacation-Care-Program",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Services/People/Families-and-children/Childcare-0-12/Vacation-Care-Program",
    "page_url": "https://littlewesties.au/holidays.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Melton community centre holiday workshops",
@@ -536,17 +555,22 @@
    "suburb": "City of Melton",
    "area_served": null,
    "address": null,
-   "ages": null,
+   "ages": "12–25",
    "days": null,
    "hours": null,
    "price": "Varies",
    "description": "Excursions and local activities for ages 12–25, booked online before each break.",
-   "facts": null,
+   "facts": [
+    "Holiday activity details are released before each school break, and all bookings are made online at the time council specifies; call 9747 5373 to join the mailing list.",
+    "During term, Launch Pad is a drop-in for 12–17s on Fridays 3.30–5.30pm at Melton Youth Centre, 193 Barries Road.",
+    "iPlay offers sport and games for 12–25s: Mondays 3.30–6pm at Cobblebank Stadium and Thursdays 3.30–6pm at Caroline Springs Leisure Centre.",
+    "Registration is essential for term programs."
+   ],
    "website": null,
    "source_url": "https://www.melton.vic.gov.au/Services/People/Youth/Stuff-to-do",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Services/People/Youth/Stuff-to-do",
    "page_url": "https://littlewesties.au/holidays.html",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Code Camp",
@@ -687,18 +711,22 @@
    "subcategory": null,
    "suburb": "Strathtulloh",
    "area_served": null,
-   "address": null,
+   "address": "Bridge Road, Strathtulloh 3338",
    "ages": null,
    "days": null,
    "hours": null,
    "price": "Free",
    "description": "Regional play space beside an athletics track and hockey pitch, with play equipment, BBQ, picnic areas, shelter and shared paths.",
-   "facts": null,
+   "facts": [
+    "The reserve combines the Bridge Road Regional Play Space with the Bridge Road Athletics Precinct (athletics track, hockey pitch and pavilion).",
+    "Home ground for Melton Hockey Club, Caroline Springs Hockey Club, Melton City Little Athletics and Melton City Runners.",
+    "Next to Bridge Road Children's and Community Centre; facilities include BBQ, picnic areas, shelter, drinking fountain, shared paths and a car park."
+   ],
    "website": null,
    "source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Bridge-Road-Recreation-Reserve",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Bridge-Road-Recreation-Reserve",
    "page_url": "https://littlewesties.au/parks.html",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Hannah Watts Park",
@@ -706,18 +734,23 @@
    "subcategory": null,
    "suburb": "Melton",
    "area_served": null,
-   "address": null,
+   "address": "183 High Street, Melton 3337",
    "ages": null,
    "days": null,
    "hours": null,
    "price": "Free",
    "description": "Redeveloped 2019: in-ground trampolines, tower with giant slide, flying fox, accessible swings and whirly go-round, natural play, accessible BBQs and toilets.",
-   "facts": null,
+   "facts": [
+    "Play features include in-ground trampolines, a tower with a giant slide and climbing, a flying fox, and parent-and-child, nest and all-abilities swings.",
+    "The whirly go-round has space and access for a wheelchair, and accessible play panels at the base of the tower include a shop front and musical play.",
+    "There's a dry creek bed, stepping stones, log steppers and balance logs, plus sensory play and natural hideouts.",
+    "Facilities: picnic shelters with wheelchair-accessible BBQs, an accessible toilet block, drinking fountain, car park and shared path."
+   ],
    "website": null,
    "source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Hannah-Watts-Park",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Hannah-Watts-Park",
    "page_url": "https://littlewesties.au/parks.html",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Lake Caroline Waterfront",
@@ -1018,15 +1051,18 @@
    "address": null,
    "ages": null,
    "days": null,
-   "hours": null,
+   "hours": "Tuesdays 10–11.30am, all year including school holidays",
    "price": "Free",
    "description": "Free play-based playgroup hosted by Aspire Early Education at 52 Dorchester Street, with morning tea provided. Tuesdays 10–11.30am, all year including school holidays.",
-   "facts": null,
+   "facts": [
+    "Play-based sessions include sensory play, arts and crafts, music and movement, storytelling and hands-on learning.",
+    "Hosted by Aspire Early Education and Kindergarten; morning tea is provided, so there's no need to bring food."
+   ],
    "website": null,
    "source_url": "https://www.melton.vic.gov.au/Services/People/Families-and-children/Playgroups/Community-playgroups",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Services/People/Families-and-children/Playgroups/Community-playgroups",
    "page_url": "https://littlewesties.au/free.html",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Weir Views Community Activation Playgroup",
@@ -1111,17 +1147,21 @@
    "suburb": "Truganina",
    "area_served": null,
    "address": null,
-   "ages": null,
+   "ages": "Infants and toddlers (council's age group)",
    "days": null,
-   "hours": null,
+   "hours": "Mondays 10am–12pm; listed dates 16, 23 and 30 Nov, 7 and 14 Dec 2026",
    "price": "Free",
    "description": "Free VICSEG New Futures playgroup for migrant and refugee families at 1 Everton Road. Mondays 10am–12pm.",
-   "facts": null,
+   "facts": [
+    "Run by VICSEG New Futures for migrant and refugee families in Wyndham.",
+    "Children learn through play, practise sharing and making friends, and get ready for 4-year-old kindergarten and primary school.",
+    "Parents can get information on women's health, parenting, healthy eating, raising children in Australia and local services."
+   ],
    "website": null,
    "source_url": "https://www.wyndham.vic.gov.au/whats-on/multicultural-playgroup-truganina-community-centre",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.wyndham.vic.gov.au/whats-on/multicultural-playgroup-truganina-community-centre",
    "page_url": "https://littlewesties.au/free.html",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "FLIP Gymnastics Holiday Program (Truganina)",
@@ -1211,12 +1251,16 @@
    "hours": null,
    "price": "Free",
    "description": "Centenary Avenue sports reserve with a playground, tennis courts, cricket nets, shelter, toilets and drinking fountain.",
-   "facts": null,
+   "facts": [
+    "Council is extending the soccer pavilion; works were expected to start mid-September 2026 and finish by April 2027.",
+    "Used by Falcon Cricket Club, Kurunjang Auskick, Satelite City United Soccer Club, Taylors Hill Cricket Club and Kurunjang Tennis Club.",
+    "Facilities include a multi-use oval, cricket nets, tennis and basketball courts, a playground, toilets, drinking fountain and car park."
+   ],
    "website": null,
    "source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Kurunjang-Recreation-Reserve",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Kurunjang-Recreation-Reserve",
    "page_url": "https://littlewesties.au/parks.html",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Frontier Park (Aintree Recreation Reserve)",
@@ -1224,18 +1268,22 @@
    "subcategory": null,
    "suburb": "Aintree",
    "area_served": null,
-   "address": null,
+   "address": "2 Fields Street, Aintree 3336",
    "ages": null,
    "days": null,
    "hours": null,
    "price": "Free",
    "description": "Play equipment with water play, basketball, BBQ, picnic shelter and public toilets at 2 Fields Street.",
-   "facts": null,
+   "facts": [
+    "Council is repairing and securing the playground tower roof, with some areas fenced off while scaffolding is up.",
+    "The work runs in two stages so the playground is ready for the summer holidays: water play stays open during stage one (up to four weeks) and closes during stage two (up to two weeks).",
+    "Facilities include basketball, BBQ, picnic shelter, seating, toilets, bins and a car park, with open lawn for family gatherings."
+   ],
    "website": null,
    "source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Frontier-Park",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Frontier-Park",
    "page_url": "https://littlewesties.au/parks.html",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Mushu Street Reserve",
@@ -1484,18 +1532,21 @@
    "subcategory": null,
    "suburb": "Taylors Hill",
    "area_served": null,
-   "address": null,
+   "address": "2A The Walk, Taylors Hill 3037",
    "ages": null,
    "days": null,
    "hours": null,
    "price": "Free",
    "description": "2A The Walk. Playground mostly under shade sails, with BBQs, picnic tables and a drinking fountain. Council upgrade (including water play) was due to start mid-2026.",
-   "facts": null,
+   "facts": [
+    "Council's upgrade adds accessible play equipment, a sheltered picnic area with BBQs, better paths, a kick-around space and water play.",
+    "Council's May 2026 update said the design was complete and works were expected to start by early June 2026."
+   ],
    "website": null,
    "source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Taylors-Hill-Central-Park",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Taylors-Hill-Central-Park",
    "page_url": "https://littlewesties.au/parks.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Parkwood Green Reserve",

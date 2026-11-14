@@ -2,7 +2,7 @@
  "source": "Little Westies",
  "url": "https://littlewesties.au/",
  "dataset": "parties",
- "generated": "2026-11-11",
+ "generated": "2026-11-14",
  "licence_note": "Facts summarised from each provider's public source; please cite Little Westies (littlewesties.au) and the source_url. null = not published by the source.",
  "count": 30,
  "items": [
@@ -453,14 +453,20 @@
    "ages": null,
    "days": null,
    "hours": null,
-   "price": null,
+   "price": "From $250 (1 hour) plus a travel fee; $310 for 90 minutes, $370 for 2 hours",
    "description": "Face painting and balloon twisting for kids' birthday parties, with hypoallergenic paints, insured artists with Working With Children Checks, and designs from butterflies and superheroes to glitter tattoos.",
-   "facts": null,
+   "facts": [
+    "Packages are for up to 20 children: The Sparkler (1 hour, $250) has balloon twisting; The Showstopper (90 minutes, $310) and The Headliner (2 hours, $370) add face painting.",
+    "A travel fee applies to every location: $15 base (0–5 km from the CBD) plus $5 for every extra 5 km. Prices are 'from' and may vary by character and date.",
+    "Dreamscape recommends 1 hour for up to 12 children and 1.5 hours for 12–20; more than 25 children needs 2 hosts.",
+    "Parents of children under 2 are asked to stay in the room; parties move indoors if it's over 32 degrees.",
+    "A non-refundable deposit secures the booking and the balance is paid to the entertainer on the day."
+   ],
    "website": "https://dreamscape.net.au/",
    "source_url": "https://dreamscape.net.au/areas/western-suburbs",
-   "facts_source_url": null,
+   "facts_source_url": "https://dreamscape.net.au/pricing",
    "page_url": "https://littlewesties.au/parties.html",
-   "last_checked": "2026-10-18"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Paint + Pop",
@@ -550,12 +556,18 @@
    "hours": null,
    "price": "$660 for 1–20 participants (+$110 for 21–30)",
    "description": "Two-hour coach-led gymnastics party with skills session, trampoline activities, games, food time and free play; preschoolers need an adult on the floor.",
-   "facts": null,
+   "facts": [
+    "Each party starts with a game and stretches, then a 30-minute skills session led by qualified coaches.",
+    "About 20 minutes of food time follows, then cake, around 20 minutes of free time in the gym with a group photo, and 15–20 minutes to wind down.",
+    "Families bring their own food and drinks (no alcohol); a fridge is available. Light party snacks are recommended.",
+    "A $50 non-refundable deposit is taken at booking and the balance 1 week before; with at least a week's notice the deposit is credited to your account.",
+    "Participant numbers are capped for safety ratios, and siblings can join only if there are spare places in your guest bracket."
+   ],
    "website": "https://www.flipgym.com.au/",
    "source_url": "https://www.flipgym.com.au/birthday-parties.html",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.flipgym.com.au/birthday-parties.html",
    "page_url": "https://littlewesties.au/parties.html",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Melton Waves",
@@ -594,12 +606,17 @@
    "hours": null,
    "price": "$29 per child (Grenade); $35 per child (Kids Karaoke or Xplosives)",
    "description": "Tenpin bowling and karaoke birthday parties with party food, a dedicated party host, a party area (about 45 minutes, often shared) and 10 arcade tokens. Grenade (5 frames, for 8 and under), Kids Karaoke (1 hour) and Xplosives (1 game). Parties run about 1.5-2 hours; minimum 8 children and $120 to book.",
-   "facts": null,
+   "facts": [
+    "Every package includes a party host and cordial and water for the children.",
+    "Food options include an Aussie platter (party pies and sausage rolls with hot chips) or an Asian platter (mini spring rolls, samosas, mini dim sims with wedges).",
+    "Extra bowling games are $9 per person; bringing your own cake has a $10 cakeage fee.",
+    "Book for roughly the expected number: after booking, no more than 5 extra children can be added, with final numbers due 5 days before."
+   ],
    "website": "https://www.xplosionsbarandbowl.com.au/",
    "source_url": "https://www.xplosionsbarandbowl.com.au/Party",
-   "facts_source_url": null,
+   "facts_source_url": "https://www.xplosionsbarandbowl.com.au/Party",
    "page_url": "https://littlewesties.au/parties.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   }
  ]
 }

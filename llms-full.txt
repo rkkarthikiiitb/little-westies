@@ -1,6 +1,6 @@
 # Little Westies: all listings
 
-> Kids' activities in Melbourne's west, Victoria, Australia. Source: https://littlewesties.au/ . Generated 2026-11-11. Missing fields were not published by the source.
+> Kids' activities in Melbourne's west, Victoria, Australia. Source: https://littlewesties.au/ . Generated 2026-11-14. Missing fields were not published by the source.
 
 ## Activities and places
 
@@ -39,10 +39,11 @@
 ### Aintree Town Centre Reserve
 - Category: Playgrounds & parks
 - Suburb: Aintree
+- Address: 3 Lim Way, Aintree 3336
 - Price: Free
 - About: Town-centre park with seating, shelter and a water play feature (council says it is switched off over winter and resumes in warmer weather).
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Anghor Drive Reserve
 - Category: Playgrounds & parks
@@ -71,18 +72,20 @@
 ### Aintree Recreation Reserve
 - Category: Playgrounds & parks
 - Suburb: Aintree
+- Address: 2 Fields Street, Aintree 3336
 - Price: Free
 - About: Multi-use reserve with tennis, netball and basketball courts, cricket nets, sports fields, a skate park and toilets.
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Isabella Williams Memorial Reserve
 - Category: Playgrounds & parks
 - Suburb: Deer Park
+- Address: 151 Neale Road, Deer Park
 - Price: Free
 - About: Listed by Brimbank Council among parks around Deer Park.
 - Source: https://www.brimbank.vic.gov.au/explore-brimbank/parks-and-nature/parks-and-playgrounds/parks-around-deer-park
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Buckingham Reserve
 - Category: Playgrounds & parks
@@ -147,7 +150,7 @@
 - Suburb: Keilor Downs
 - About: Swim school with a waitlist.
 - Source: https://bawc.brimbank.vic.gov.au/aquatics/swim-school-waitlist
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### AquaPulse (WynSwim lessons)
 - Category: Swimming lessons
@@ -200,10 +203,11 @@
 ### Melton City Council Vacation Care
 - Category: School holiday programs
 - Suburb: Melton (Bridge Road Children's Community Centre)
-- Price: $94.50/day (summer 2026–27)
+- Address: Bridge Road Children's & Community Centre, 260–266 Bridge Road, Strathtulloh 3338
+- Price: $94.50 per day flat rate, plus excursion/incursion charges
 - About: Holiday care for primary-aged kids, 7am–6pm weekdays. Summer 2026–27 is a flat $94.50 per day plus excursions; Child Care Subsidy may apply.
 - Source: https://www.melton.vic.gov.au/Services/People/Families-and-children/Childcare-0-12/Vacation-Care-Program
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Melton community centre holiday workshops
 - Category: School holiday programs
@@ -224,10 +228,11 @@
 ### Melton Youth Holiday Activities
 - Category: School holiday programs
 - Suburb: City of Melton
+- Ages: 12–25
 - Price: Varies
 - About: Excursions and local activities for ages 12–25, booked online before each break.
 - Source: https://www.melton.vic.gov.au/Services/People/Youth/Stuff-to-do
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Code Camp
 - Category: School holiday programs
@@ -283,18 +288,20 @@
 ### Bridge Road Recreation Reserve and Regional Play Space
 - Category: Playgrounds & parks
 - Suburb: Strathtulloh
+- Address: Bridge Road, Strathtulloh 3338
 - Price: Free
 - About: Regional play space beside an athletics track and hockey pitch, with play equipment, BBQ, picnic areas, shelter and shared paths.
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Bridge-Road-Recreation-Reserve
-- Last checked: 2026-10-21
+- Last checked: 2026-11-14
 
 ### Hannah Watts Park
 - Category: Playgrounds & parks
 - Suburb: Melton
+- Address: 183 High Street, Melton 3337
 - Price: Free
 - About: Redeveloped 2019: in-ground trampolines, tower with giant slide, flying fox, accessible swings and whirly go-round, natural play, accessible BBQs and toilets.
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Hannah-Watts-Park
-- Last checked: 2026-10-21
+- Last checked: 2026-11-14
 
 ### Lake Caroline Waterfront
 - Category: Playgrounds & parks
@@ -416,7 +423,7 @@
 - Price: Free
 - About: Free play-based playgroup hosted by Aspire Early Education at 52 Dorchester Street, with morning tea provided. Tuesdays 10–11.30am, all year including school holidays.
 - Source: https://www.melton.vic.gov.au/Services/People/Families-and-children/Playgroups/Community-playgroups
-- Last checked: 2026-10-21
+- Last checked: 2026-11-14
 
 ### Weir Views Community Activation Playgroup
 - Category: Free & library
@@ -453,10 +460,11 @@
 ### Multicultural Playgroup, Truganina Community Centre
 - Category: Free & library
 - Suburb: Truganina
+- Ages: Infants and toddlers (council's age group)
 - Price: Free
 - About: Free VICSEG New Futures playgroup for migrant and refugee families at 1 Everton Road. Mondays 10am–12pm.
 - Source: https://www.wyndham.vic.gov.au/whats-on/multicultural-playgroup-truganina-community-centre
-- Last checked: 2026-10-21
+- Last checked: 2026-11-14
 
 ### FLIP Gymnastics Holiday Program (Truganina)
 - Category: School holiday programs
@@ -496,15 +504,16 @@
 - Price: Free
 - About: Centenary Avenue sports reserve with a playground, tennis courts, cricket nets, shelter, toilets and drinking fountain.
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Kurunjang-Recreation-Reserve
-- Last checked: 2026-10-21
+- Last checked: 2026-11-14
 
 ### Frontier Park (Aintree Recreation Reserve)
 - Category: Playgrounds & parks
 - Suburb: Aintree
+- Address: 2 Fields Street, Aintree 3336
 - Price: Free
 - About: Play equipment with water play, basketball, BBQ, picnic shelter and public toilets at 2 Fields Street.
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Frontier-Park
-- Last checked: 2026-10-21
+- Last checked: 2026-11-14
 
 ### Mushu Street Reserve
 - Category: Playgrounds & parks
@@ -605,10 +614,11 @@
 ### Taylors Hill Central Park
 - Category: Playgrounds & parks
 - Suburb: Taylors Hill
+- Address: 2A The Walk, Taylors Hill 3037
 - Price: Free
 - About: 2A The Walk. Playground mostly under shade sails, with BBQs, picnic tables and a drinking fountain. Council upgrade (including water play) was due to start mid-2026.
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Taylors-Hill-Central-Park
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### Parkwood Green Reserve
 - Category: Playgrounds & parks
@@ -693,11 +703,12 @@
 - Category: Sport
 - Type: Swimming
 - Suburb: Caroline Springs
-- Address: 1042 Western Hwy, Caroline Springs
+- Address: 1042 Western Highway, Caroline Springs VIC 3023
 - Ages: Babies and kids
+- Price: $24.50 per lesson
 - Website: https://jumpswimschools.com.au/locations/caroline-springs/
 - Source: https://jumpswimschools.com.au/locations/caroline-springs/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### State Swim Caroline Springs
 - Category: Sport
@@ -880,7 +891,7 @@
 - Ages: Juniors (domestic clubs)
 - Website: https://www.meltonbasketball.com.au/playbasketball
 - Source: https://www.meltonbasketball.com.au/junior-clubs
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Caroline Springs Cricket Club
 - Category: Sport
@@ -975,7 +986,7 @@
 - Ages: 16 months to 8 years
 - Website: https://tinytutus.com.au/pages/melbourne-ballet-classes
 - Source: https://tinytutus.com.au/pages/melbourne-ballet-classes
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Kinderballet Taylors Lakes
 - Category: Dance
@@ -998,7 +1009,7 @@
 - Days/terms: Term-based; Saturdays
 - Website: https://stageschool.com.au/locations/caroline-springs
 - Source: https://stageschool.com.au/locations/caroline-springs
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### WestEnd Performing Arts
 - Category: Dance
@@ -1073,10 +1084,11 @@
 - Suburb: Caroline Springs
 - Address: 9 Commercial Rd, Caroline Springs
 - Ages: 4–7; 8–15
-- Price: $49 two-week intro program (as advertised)
+- Days/terms: Mon–Thu and Saturday
+- Price: $49 for 2 weeks' training plus a free uniform (intro offer)
 - Website: https://samuraikarate.com/caroline-springs-dojo-vic/
 - Source: https://samuraikarate.com/caroline-springs-dojo-vic/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Samurai Karate Sunshine
 - Category: Martial arts
@@ -1137,9 +1149,10 @@
 - Type: Karate
 - Suburb: Melton
 - Ages: Little Ninjas and Mighty Ninjas 4–6; junior classes by belt
+- Days/terms: Tue & Thu at Staughton College; Wed & Sat at Murrum Primary School; Fri at Arnolds Creek Primary School
 - Website: https://shindokarate.com.au/karate-melton/
 - Source: https://shindokarate.com.au/karate-melton/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Hall's Taekwondo Sunshine
 - Category: Martial arts
@@ -1180,7 +1193,7 @@
 - Days/terms: Term classes, weekdays and Saturdays (toddlers)
 - Website: https://www.carolinespringsschoolofmusic.com.au/
 - Source: https://www.carolinespringsschoolofmusic.com.au/toddlers-program
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### The Music Hub Academy
 - Category: Music
@@ -1190,7 +1203,7 @@
 - Ages: All ages
 - Website: https://www.themusichubacademy.com/
 - Source: https://www.themusichubacademy.com/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Trill Music Studio
 - Category: Music
@@ -1199,7 +1212,7 @@
 - Ages: 5+
 - Website: https://www.trillmusicstudio.com.au/
 - Source: https://www.trillmusicstudio.com.au/
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Music Education Academy
 - Category: Music
@@ -1234,7 +1247,7 @@
 - Ages: 6 months–5 years
 - Website: https://www.melton.vic.gov.au/Out-n-About/Local-Directory-Listing/Mini-Maestros-Caroline-Springs
 - Source: https://www.melton.vic.gov.au/Out-n-About/Local-Directory-Listing/Mini-Maestros-Caroline-Springs
-- Last checked: 2026-10-15
+- Last checked: 2026-11-14
 
 ### Global Taekwondo
 - Category: Martial arts
@@ -1341,7 +1354,7 @@
 - Days/terms: Kids classes Mondays and Fridays
 - Website: https://dancesportwestside.com/
 - Source: https://dancesportwestside.com/
-- Last checked: 2026-10-21
+- Last checked: 2026-11-14
 
 ### Dance Crew Melton
 - Category: Dance
@@ -1447,9 +1460,10 @@
 - Suburb: Truganina
 - Ages: Kids piano 5–14; also adults
 - Days/terms: Piano for kids: Fri 12:00, Tue 4:30pm, Wed 4:30pm (as listed)
+- Price: $35 per piano lesson (listed down from $50)
 - Website: https://musicmolecule.com/
 - Source: https://musicmolecule.com/product/pian-premier-atleast-8-years-old/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### Aintree Tennis Club
 - Category: Sport
@@ -1533,7 +1547,7 @@
 - Days/terms: Regular stage performances; no trial lessons
 - Website: https://www.carolinespringsschoolofmusic.com.au/drama-lessons
 - Source: https://www.carolinespringsschoolofmusic.com.au/drama-lessons
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### PerformX Academy
 - Category: Drama
@@ -1544,7 +1558,7 @@
 - Days/terms: Weekly
 - Website: https://www.performxacademy.com.au/locations/tarneit
 - Source: https://www.performxacademy.com.au/locations/tarneit
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### Kumon Melton Education Centre
 - Category: Tutoring
@@ -1587,11 +1601,11 @@
 - Type: Maths and English
 - Suburb: Caroline Springs
 - Address: Brookside Central, Office 4, 9-12 Federation Way, Caroline Springs VIC 3023
-- Ages: Primary and secondary
+- Ages: Kindergarten to Year 12
 - Days/terms: In person and online
 - Website: https://successtutoring.com.au/caroline-springs-tutoring
 - Source: https://successtutoring.com.au/caroline-springs-tutoring
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### Kip McGrath Caroline Springs
 - Category: Tutoring
@@ -1727,7 +1741,7 @@
 - Ages: Babies (under 3) and kids
 - Website: https://kingswim.com.au/locations/melbourne
 - Source: https://kingswim.com.au/locations/melbourne
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### JUMP! Swim Schools Melton South
 - Category: Sport
@@ -1860,7 +1874,7 @@
 - Ages: 18 months to 8 years
 - Website: https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/
 - Source: https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### Little Kickers Tarneit
 - Category: Sport
@@ -1870,7 +1884,7 @@
 - Ages: 18 months to 8 years
 - Website: https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/
 - Source: https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### Little Kickers Hoppers Crossing
 - Category: Sport
@@ -1880,7 +1894,7 @@
 - Ages: 18 months to 8 years
 - Website: https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/
 - Source: https://www.littlekickers.com.au/en-au/locations/melbourne-outer-west/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### Kumon Werribee Education Centre
 - Category: Tutoring
@@ -2152,10 +2166,11 @@
 - Category: Birthday parties & party hire
 - Type: Face painting
 - Area served: Melbourne's western suburbs, including Sunshine, Deer Park, Caroline Springs, Taylors Lakes, Hillside and Keilor (as listed)
+- Price: From $250 (1 hour) plus a travel fee; $310 for 90 minutes, $370 for 2 hours
 - About: Face painting and balloon twisting for kids' birthday parties, with hypoallergenic paints, insured artists with Working With Children Checks, and designs from butterflies and superheroes to glitter tattoos.
 - Website: https://dreamscape.net.au/
 - Source: https://dreamscape.net.au/areas/western-suburbs
-- Last checked: 2026-10-18
+- Last checked: 2026-11-14
 
 ### Paint + Pop
 - Category: Birthday parties & party hire
@@ -2203,7 +2218,7 @@
 - About: Two-hour coach-led gymnastics party with skills session, trampoline activities, games, food time and free play; preschoolers need an adult on the floor.
 - Website: https://www.flipgym.com.au/
 - Source: https://www.flipgym.com.au/birthday-parties.html
-- Last checked: 2026-10-21
+- Last checked: 2026-11-14
 
 ### Melton Waves
 - Category: Birthday parties & party hire
@@ -2225,7 +2240,7 @@
 - About: Tenpin bowling and karaoke birthday parties with party food, a dedicated party host, a party area (about 45 minutes, often shared) and 10 arcade tokens. Grenade (5 frames, for 8 and under), Kids Karaoke (1 hour) and Xplosives (1 game). Parties run about 1.5-2 hours; minimum 8 children and $120 to book.
 - Website: https://www.xplosionsbarandbowl.com.au/
 - Source: https://www.xplosionsbarandbowl.com.au/Party
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ## This weekend in Melbourne's west (Saturday 14 November – Sunday 15 November 2026)
 
