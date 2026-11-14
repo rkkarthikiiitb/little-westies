@@ -4,7 +4,7 @@
  "dataset": "parties",
  "generated": "2026-11-14",
  "licence_note": "Facts summarised from each provider's public source; please cite Little Westies (littlewesties.au) and the source_url. null = not published by the source.",
- "count": 30,
+ "count": 31,
  "items": [
   {
    "name": "Tenshi-Do Martial Arts",
@@ -486,6 +486,33 @@
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/parties.html",
    "last_checked": "2026-10-18"
+  },
+  {
+   "name": "Paint n Sparkles",
+   "category": "Birthday parties & party hire",
+   "subcategory": "Face painting",
+   "suburb": null,
+   "area_served": "Based in Keilor Downs; travels up to 30 minutes (travel charges may apply beyond that). Services metropolitan Melbourne and surrounding suburbs (as listed)",
+   "address": null,
+   "ages": null,
+   "days": null,
+   "hours": null,
+   "price": "Face painting from $240 for 1 hour (up to 12 children); 1.5 hours $270 (up to 18), 2 hours $310 (up to 25), 2.5 hours $350 (up to 30). Face painting plus balloon twisting from $270 for 1 hour (up to 6 children)",
+   "description": "Mobile children's party entertainer offering face painting, balloon twisting, glitter tattoos, giant bubbles and art and craft parties. Face painters can complete 10-12 full faces an hour. The minimum face-painting booking is 1.5 hours, at the business's discretion depending on distance to the venue. Entertainers have Working with Children Checks and $20 million public liability insurance. Phone 0425 782 266.",
+   "facts": [
+    "The entertainment page lists face painting from $240 for 1 hour (up to 12 children), $270 for 1.5 hours (up to 18), $310 for 2 hours (up to 25) and $350 for 2.5 hours (up to 30).",
+    "Face painting plus balloon twisting packages start at $270 for 1 hour (up to 6 children), then $300 for 1.5 hours, $350 for 2 hours and $420 for 2.5 hours.",
+    "The entertainment page says the team can face paint 10-12 full face designs an hour, and also offers quicker designs.",
+    "The FAQ says the minimum face-painting booking is 1.5 hours, at Paint n Sparkles' discretion depending on the distance to the venue (https://paintnsparkles.com.au/faq/).",
+    "The FAQ says Sparkly Sue travels up to 30 minutes from Keilor Downs, and that travel charges may be applicable if the venue is further than that.",
+    "The homepage says all entertainers and staff have working with children cards and $20 million public liability insurance (https://paintnsparkles.com.au/).",
+    "The contact and entertainment pages list the booking number as 0425 782 266 (https://paintnsparkles.com.au/contact/)."
+   ],
+   "website": "https://paintnsparkles.com.au/",
+   "source_url": "https://paintnsparkles.com.au/entertainment/",
+   "facts_source_url": "https://paintnsparkles.com.au/entertainment/",
+   "page_url": "https://littlewesties.au/parties.html",
+   "last_checked": "2026-11-14"
   },
   {
    "name": "L.A Party and Events Hire",
