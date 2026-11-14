@@ -4,7 +4,7 @@
  "dataset": "classes",
  "generated": "2026-11-14",
  "licence_note": "Facts summarised from each provider's public source; please cite Little Westies (littlewesties.au) and the source_url. null = not published by the source.",
- "count": 126,
+ "count": 139,
  "items": [
   {
    "name": "Tenshi-Do Martial Arts",
@@ -35,14 +35,16 @@
    "ages": "All ages (recreational and competitive)",
    "days": null,
    "hours": null,
-   "price": null,
+   "price": "Birthday parties $16.50 per head (minimum 10, 2 hours)",
    "description": null,
-   "facts": null,
+   "facts": [
+    "MGA's birthday parties page lists $16.50 per head (minimum 10 children) for a 2-hour gymnastics party."
+   ],
    "website": "https://meltongymnastics.com.au/",
    "source_url": "https://meltongymnastics.com.au/",
-   "facts_source_url": null,
+   "facts_source_url": "https://meltongymnastics.com.au/programs/birthday-parties/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-11-02"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "BK's Gymnastics Caroline Springs",
@@ -98,7 +100,7 @@
    "suburb": "Caroline Springs",
    "area_served": null,
    "address": "1042 Western Highway, Caroline Springs VIC 3023",
-   "ages": "Babies and kids",
+   "ages": "From 3 months, children, and adults",
    "days": null,
    "hours": null,
    "price": "$24.50 per lesson",
@@ -185,18 +187,20 @@
    "subcategory": "Swimming",
    "suburb": "Melton",
    "area_served": null,
-   "address": "1a Raleighs Road, Melton 3337; ph (03) 9746 6008",
+   "address": "1a Raleighs Road, Melton VIC 3337; ph (03) 9746 6008",
    "ages": "From 3",
-   "days": null,
+   "days": "Mon, Wed and Thu 3.30pm–7.00pm; Tue 9.00am–7.00pm; Fri 3.30pm–7.30pm; Sat 7.30am–12.30pm; Sun closed",
    "hours": null,
    "price": null,
    "description": null,
-   "facts": null,
-   "website": "https://www.paulsadlerswimland.com/locations-contact/melton/",
-   "source_url": "https://www.paulsadlerswimland.com/locations-contact/melton/",
-   "facts_source_url": null,
+   "facts": [
+    "Opening hours are published on Paul Sadler's locations page. A lesson price was not published there."
+   ],
+   "website": "https://www.paulsadlerswimland.com/locations-contact/",
+   "source_url": "https://www.paulsadlerswimland.com/locations-contact/",
+   "facts_source_url": "https://www.paulsadlerswimland.com/locations-contact/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Melton Waves Learn to Swim",
@@ -204,18 +208,18 @@
    "subcategory": "Swimming",
    "suburb": "Melton",
    "area_served": null,
-   "address": null,
-   "ages": null,
+   "address": "206 Coburns Road, Melton VIC 3337",
+   "ages": "Babies, kids and adults (BlueFit program-wide: infants from 4 months to 3 years, then preschool 3+ through to squad)",
    "days": null,
    "hours": "Centre: Mon–Fri 5am–9pm; Sat, Sun and public holidays 8am–6pm. Gym open 24/7.",
-   "price": null,
+   "price": "$22.00 per lesson ($44.00 per fortnight)",
    "description": null,
    "facts": null,
    "website": "https://www.meltonwaves.com.au/learn-to-swim",
    "source_url": "https://www.meltonwaves.com.au/learn-to-swim",
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Sunshine Leisure Centre Swim School",
@@ -1083,7 +1087,7 @@
    "ages": "Children and adults",
    "days": null,
    "hours": null,
-   "price": "Family discounts mentioned",
+   "price": null,
    "description": null,
    "facts": null,
    "website": "https://dojos.au/DDTKD/",
@@ -1274,10 +1278,10 @@
    "description": null,
    "facts": null,
    "website": "https://www.meltonswimschool.com.au/",
-   "source_url": "https://www.meltonswimschool.com.au/childrens-lessons.html",
+   "source_url": "https://www.meltonswimschool.com.au/contact-us.html",
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "JUMP! Swim Schools Truganina",
@@ -1287,16 +1291,16 @@
    "area_served": null,
    "address": "2/25 Infinity Drive, Truganina; ph 0456 225 593",
    "ages": "From 6 months",
-   "days": "7 days a week; morning and afternoon sessions",
+   "days": null,
    "hours": null,
-   "price": null,
+   "price": "$23.50 per lesson",
    "description": null,
    "facts": null,
    "website": "https://jumpswimschools.com.au/locations/truganina/",
    "source_url": "https://jumpswimschools.com.au/locations/truganina/",
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "FLIP Gymnastics Truganina",
@@ -1534,7 +1538,7 @@
    "source_url": "https://www.bluefitswimming.com.au/enrolment-request-truganina",
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Melton City Little Athletics Centre",
@@ -2129,7 +2133,7 @@
    "source_url": "https://www.paulsadlerswimland.com/locations-contact/",
    "facts_source_url": "https://www.paulsadlerswimland.com/locations-contact/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Paul Sadler Swimland Parkwood Green",
@@ -2148,7 +2152,7 @@
    "source_url": "https://www.paulsadlerswimland.com/locations-contact/",
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Paul Sadler Swimland Hoppers Crossing",
@@ -2171,7 +2175,7 @@
    "source_url": "https://www.paulsadlerswimland.com/locations-contact/",
    "facts_source_url": "https://www.paulsadlerswimland.com/locations-contact/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Kingswim Manor Lakes",
@@ -2214,7 +2218,7 @@
    "source_url": "https://jumpswimschools.com.au/locations/melton-south/",
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "JUMP! Swim Schools Point Cook",
@@ -2238,7 +2242,7 @@
    "source_url": "https://jumpswimschools.com.au/locations/point-cook/",
    "facts_source_url": "https://jumpswimschools.com.au/locations/point-cook/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "JUMP! Swim Schools Tarneit",
@@ -2262,7 +2266,7 @@
    "source_url": "https://jumpswimschools.com.au/locations/tarneit/",
    "facts_source_url": "https://jumpswimschools.com.au/locations/tarneit/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "BK's Gymnastics Hoppers Crossing",
@@ -2289,18 +2293,20 @@
    "subcategory": "Swimming",
    "suburb": "Hoppers Crossing",
    "area_served": null,
-   "address": "4/15 Lentini Street, Hoppers Crossing VIC 3029; ph 03 9369 9438",
-   "ages": "From 3 months",
-   "days": "7 days a week",
+   "address": "4/15 Lentini Street, Hoppers Crossing VIC 3029",
+   "ages": null,
+   "days": null,
    "hours": null,
-   "price": "$25 per lesson",
+   "price": null,
    "description": null,
-   "facts": null,
+   "facts": [
+    "JUMP!'s Hoppers Crossing location URL now redirects to the find-a-location index. No per-lesson price or phone was published on that page on 14 November 2026."
+   ],
    "website": "https://jumpswimschools.com.au/locations/hoppers-crossing/",
    "source_url": "https://jumpswimschools.com.au/locations/hoppers-crossing/",
-   "facts_source_url": null,
+   "facts_source_url": "https://jumpswimschools.com.au/locations/hoppers-crossing/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "JUMP! Swim Schools Sayers Road",
@@ -2319,7 +2325,7 @@
    "source_url": "https://jumpswimschools.com.au/locations/sayers-road/",
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "JUMP! Swim Schools Diggers Rest",
@@ -2344,7 +2350,7 @@
    "source_url": "https://jumpswimschools.com.au/locations/diggers-rest/",
    "facts_source_url": "https://jumpswimschools.com.au/locations/diggers-rest/",
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Paul Sadler Swimland Altona",
@@ -2385,7 +2391,7 @@
    "source_url": "https://www.paulsadlerswimland.com/locations-contact/",
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/classes-sport.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Little Kickers Truganina",
@@ -2553,7 +2559,7 @@
    "source_url": "https://www.kumonsearch.com.au/Centre/Kumon-Point-Cook-VIC",
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/classes-tutoring.html",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Kumon Tarneit Education Centre",
@@ -2573,6 +2579,257 @@
    "facts_source_url": null,
    "page_url": "https://littlewesties.au/classes-tutoring.html",
    "last_checked": "2026-10-22"
+  },
+  {
+   "name": "Shawn's Swim School",
+   "category": "Sport",
+   "subcategory": "Swimming",
+   "suburb": "Hoppers Crossing",
+   "area_served": null,
+   "address": "35 Richards Rd, Hoppers Crossing VIC 3029; ph 03 9369 6977",
+   "ages": "Babies from 4 months through to squad and adults",
+   "days": null,
+   "hours": null,
+   "price": "From 5 October 2026: after-school and preschool $27 a week for 1 child, $26.50 each for 2, $26 each for 3 or more; Tadpoles $184 for 8 lessons ($23 per lesson) or $27 a week if only 1 class a week; squad $26 (or $24 if still doing lessons); adults $32; private lessons $60. First child lesson is advertised as free.",
+   "description": "Independent Hoppers Crossing swim school, open since 1994, teaching babies from 4 months through to squad and adults.",
+   "facts": null,
+   "website": "https://www.shawnsswimschool.com.au/about-us",
+   "source_url": "https://www.shawnsswimschool.com.au/new-lesson-fees-from-5-october-2026",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-sport.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "BlueFit Swimming Point Cook",
+   "category": "Sport",
+   "subcategory": "Swimming",
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": "1 Kenswick St, Point Cook VIC; ph 1300 252 583",
+   "ages": "Infants from 4 months to 3 years, then preschool (3+) through to squad (BlueFit program-wide)",
+   "days": null,
+   "hours": null,
+   "price": "$26.50 per lesson ($53.00 per fortnight)",
+   "description": null,
+   "facts": null,
+   "website": "https://www.bluefitswimming.com.au/enrolment-request-point-cook",
+   "source_url": "https://www.bluefitswimming.com.au/enrolment-request-point-cook",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-sport.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "BlueFit Swimming Truganina Central",
+   "category": "Sport",
+   "subcategory": "Swimming",
+   "suburb": "Truganina",
+   "area_served": null,
+   "address": "2 Shear St, Truganina VIC; ph 1300 252 583",
+   "ages": "Infants from 4 months to 3 years, then preschool (3+) through to squad (BlueFit program-wide)",
+   "days": null,
+   "hours": null,
+   "price": "$25.50 per lesson ($51.00 per fortnight)",
+   "description": null,
+   "facts": null,
+   "website": "https://www.bluefitswimming.com.au/enrolment-request-truganina-central",
+   "source_url": "https://www.bluefitswimming.com.au/enrolment-request-truganina-central",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-sport.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "BlueFit Swimming Laverton",
+   "category": "Sport",
+   "subcategory": "Swimming",
+   "suburb": "Laverton",
+   "area_served": null,
+   "address": "Laverton Swim and Fitness Centre, Jennings Street, Laverton VIC; ph 1300 252 583",
+   "ages": "Infants from 4 months to 3 years, then preschool (3+) through to squad (BlueFit program-wide)",
+   "days": null,
+   "hours": null,
+   "price": "$25.50 per lesson ($51.00 per fortnight)",
+   "description": null,
+   "facts": null,
+   "website": "https://www.bluefitswimming.com.au/enrolment-request-laverton",
+   "source_url": "https://www.bluefitswimming.com.au/enrolment-request-laverton",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-sport.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "JUMP! Swim Schools Harpley (Werribee)",
+   "category": "Sport",
+   "subcategory": "Swimming",
+   "suburb": "Werribee",
+   "area_served": null,
+   "address": "Harpley Town Centre, Ison Road, Werribee",
+   "ages": "From 6 months through to stroke development",
+   "days": null,
+   "hours": null,
+   "price": "$26 per lesson",
+   "description": "Boutique heated indoor JUMP! centre at Harpley Town Centre, Werribee, listed as now open.",
+   "facts": null,
+   "website": "https://jumpswimschools.com.au/locations/harpley/",
+   "source_url": "https://jumpswimschools.com.au/locations/harpley/",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-sport.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "Point Cook Dance",
+   "category": "Dance",
+   "subcategory": "Recreational and exam-pathway dance",
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": "Dunnings Rd Reserve Pavilion, Kingsley Avenue, Point Cook; and Featherbrook Community Centre, 33-35 Windorah Drive, Point Cook. Also VU Fitness Centre, Gate 4, Building 7, 235 Hoppers Lane, Werribee. Ph 0416 679 911",
+   "ages": "From 3 years (Preschooler DanceFun 3-5; Combination for Preppies 5-6 years) through graded classes to teens",
+   "days": null,
+   "hours": null,
+   "price": null,
+   "description": null,
+   "facts": null,
+   "website": "https://www.pointcookdance.com.au/",
+   "source_url": "https://www.pointcookdance.com.au/timetable/",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-dance.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "Evolve Football Academy (Saltwater Reserve)",
+   "category": "Sport",
+   "subcategory": "Soccer",
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": "Saltwater Reserve, Point Cook VIC 3030",
+   "ages": "Mixed groups 3-15; girls-only groups 5-12",
+   "days": null,
+   "hours": null,
+   "price": "$350 for a 10-week term (1 session a week); sibling discount $600 for 2 players",
+   "description": null,
+   "facts": null,
+   "website": "https://evolvefootball.com.au/group-classes/",
+   "source_url": "https://evolvefootball.com.au/group-classes/",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-sport.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "West Point Cricket Club",
+   "category": "Sport",
+   "subcategory": "Cricket",
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": "2 Webster St / Webster Street Reserve, Point Cook VIC 3030",
+   "ages": "Cricket Blast 5-8; junior girls 9-18; junior boys 9-18",
+   "days": null,
+   "hours": null,
+   "price": null,
+   "description": null,
+   "facts": null,
+   "website": "https://westpointcc.com.au/",
+   "source_url": "https://westpointcc.com.au/",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-sport.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "DNTA (Dane Nebel's Tennis Academy) - Saltwater Reserve",
+   "category": "Sport",
+   "subcategory": "Tennis",
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": "Saltwater Reserve Tennis Centre, 50 Saltwater Promenade, Point Cook VIC 3030; ph 0416 180 989",
+   "ages": "Juniors and adults; programs include Hot Shots and junior development",
+   "days": null,
+   "hours": null,
+   "price": null,
+   "description": null,
+   "facts": null,
+   "website": "https://dnta.com.au/",
+   "source_url": "https://dnta.com.au/",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-sport.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "Fab Music Studio",
+   "category": "Music",
+   "subcategory": "Piano",
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": "270 Boardwalk Boulevard, Point Cook VIC 3030; ph 0430 173 877",
+   "ages": "Children to adults (students of all ages and abilities)",
+   "days": null,
+   "hours": null,
+   "price": null,
+   "description": null,
+   "facts": null,
+   "website": "https://fabmusicstudio.com.au/",
+   "source_url": "https://fabmusicstudio.com.au/",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-music.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "Point Cook Football Club Auskick",
+   "category": "Sport",
+   "subcategory": "AFL",
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": "Saltwater Reserve Synthetic Oval, cnr Point Cook Rd and Saltwater Promenade, Point Cook VIC 3030",
+   "ages": "Listed as All Ages, with a girls-only group (no narrower age range published on the Auskick page)",
+   "days": "Saturday morning",
+   "hours": null,
+   "price": null,
+   "description": null,
+   "facts": null,
+   "website": "https://pointcookfc.com.au/auskick/",
+   "source_url": "https://pointcookfc.com.au/auskick/",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/classes-sport.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "Tae Ho Martial Arts",
+   "category": "Martial arts",
+   "subcategory": "Martial arts",
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": "12A/15 Kenswick, Point Cook VIC 3030 (Tribeca Village Shopping Centre, Saltwater); ph 0402 933 625",
+   "ages": null,
+   "days": null,
+   "hours": null,
+   "price": null,
+   "description": "Martial arts studio at Tribeca Village / Saltwater in Point Cook; a free trial is offered on the contact page.",
+   "facts": [
+    "The contact page lists TAEHO Martial Arts at 12A/15 Kenswick, Point Cook, and offers a free trial class."
+   ],
+   "website": "https://momentum-gym.com.au/contact-us",
+   "source_url": "https://momentum-gym.com.au/contact-us",
+   "facts_source_url": "https://momentum-gym.com.au/contact-us",
+   "page_url": "https://littlewesties.au/classes-martial-arts.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "Momentum Taekwondo (Point Cook Senior Secondary College)",
+   "category": "Martial arts",
+   "subcategory": "Taekwondo",
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": "Point Cook Senior Secondary College, Point Cook; ph 0402 933 625",
+   "ages": null,
+   "days": "Mon, Wed and Sat",
+   "hours": null,
+   "price": null,
+   "description": "Taekwondo classes at Point Cook Senior Secondary College on Monday, Wednesday and Saturday; a free trial is offered on the contact page.",
+   "facts": [
+    "The contact page lists Momentum Taekwondo at Point Cook Senior Secondary College and offers a free trial class."
+   ],
+   "website": "https://momentum-gym.com.au/contact-us",
+   "source_url": "https://momentum-gym.com.au/contact-us",
+   "facts_source_url": "https://momentum-gym.com.au/contact-us",
+   "page_url": "https://littlewesties.au/classes-martial-arts.html",
+   "last_checked": "2026-11-14"
   }
  ]
 }

@@ -130,11 +130,13 @@
 ### Melton Waves Leisure Centre
 - Category: Swimming lessons
 - Suburb: Melton
-- Address: 206 Coburns Road, Melton VIC 3337
+- Address: Melton Waves Leisure Centre, 206 Coburns Road, Melton VIC 3337
+- Ages: Babies, kids and adults (BlueFit program-wide: infants from 4 months to 3 years, then preschool 3+ through to squad)
+- Price: $22.00 per lesson ($44.00 per fortnight) for learn-to-swim
 - About: Wave pool, warm water pool, 25 m indoor pool, seasonal 50 m outdoor pool and swim school.
 - Website: https://www.meltonwaves.com.au/learn-to-swim
 - Source: https://www.meltonwaves.com.au/
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### Sunshine Leisure Centre swimming lessons
 - Category: Swimming lessons
@@ -156,9 +158,11 @@
 - Category: Swimming lessons
 - Suburb: Hoppers Crossing
 - Address: 80-82 Derrimut Rd, Hoppers Crossing 3029
+- Ages: Little Wonders 6–36 months (parent or carer in the water); preschool 3–5 years; school-age and adult programs from 5 years
+- Price: Enrolment fee $32.20; $27.80 per lesson ($55.60 per direct debit). Prices applicable from 1 July 2026. No minimum term.
 - About: Wyndham aquatic centre at 80–82 Derrimut Rd, run by WynActive.
 - Source: https://wynactive.com.au/visit/aquapulse/
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### Preschool Storytime, Caroline Springs Library
 - Category: Free & library
@@ -315,24 +319,23 @@
 ### Melton Swim School (at Genesis Fitness Melton)
 - Category: Swimming lessons
 - Suburb: Melton
-- Address: Inside Genesis Fitness Melton
+- Address: Located at Genesis Fitness Melton, 15-21 Coburns Road, Melton South VIC 3338; ph 03 9747 4000
 - Ages: Children of all ages, plus adults
-- About: Swim and Survive (Royal Life Saving) lessons for children of all ages and adults; book by phone on 03 9747 4000.
+- About: Swim and Survive (Royal Life Saving) lessons for children of all ages and adults, located at Genesis Fitness Melton, 15-21 Coburns Road, Melton South; book by phone on 03 9747 4000.
 - Website: https://www.meltonswimschool.com.au/
-- Source: https://www.meltonswimschool.com.au/childrens-lessons.html
-- Last checked: 2026-11-11
+- Source: https://www.meltonswimschool.com.au/contact-us.html
+- Last checked: 2026-11-14
 
 ### JUMP! Swim Schools Truganina
 - Category: Swimming lessons
 - Suburb: Truganina
 - Address: 2/25 Infinity Drive, Truganina; ph 0456 225 593
-- Ages: From 6 months
-- Days/terms: 7 days a week; morning and afternoon sessions
+- Ages: From 6 months through to stroke development (parent-and-child classes listed for babies 6 months to 4 years)
 - Price: $23.50 per lesson
-- About: Boutique heated indoor pool at 2/25 Infinity Drive, with parent-and-child classes for babies, then independent swimmers and stroke development.
+- About: Boutique heated indoor learn-to-swim centre on Infinity Drive, Truganina, now open.
 - Website: https://jumpswimschools.com.au/locations/truganina/
 - Source: https://jumpswimschools.com.au/locations/truganina/
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### Baby Bounce, Melton City Libraries
 - Category: Free & library
@@ -555,7 +558,7 @@
 - About: Learn-to-swim at 90 Elmhurst Road with small classes, make-up lessons and multi-child discounts.
 - Website: https://www.bluefitswimming.com.au/
 - Source: https://www.bluefitswimming.com.au/enrolment-request-truganina
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### YMCA Taylors Hill School Holiday Program
 - Category: School holiday programs
@@ -654,6 +657,30 @@
 - Source: https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Norm-Raven-Reserve
 - Last checked: 2026-11-11
 
+### Rhyme Time, Point Cook Library
+- Category: Free & library
+- Suburb: Point Cook
+- Price: Free
+- About: Free 30-minute Wyndham City Libraries session of stories, songs and rhymes at Point Cook Library, 1-21 Cheetham Street, for children aged 1-5 years. No bookings required.
+- Source: https://www.wyndham.vic.gov.au/whats-on/rhyme-time-point-cook-library
+- Last checked: 2026-11-14
+
+### Story Time, Point Cook Library
+- Category: Free & library
+- Suburb: Point Cook
+- Price: Free
+- About: Free 45-minute stories, rhymes and craft session at Point Cook Library, aimed at children 3+ (younger children welcome if they sit with a parent or carer), including monthly bilingual sessions.
+- Source: https://www.wyndham.vic.gov.au/whats-on/story-time-point-cook-library
+- Last checked: 2026-11-14
+
+### Stockland Point Cook playgroup (Wyndham City)
+- Category: Free & library
+- Suburb: Point Cook
+- Price: Free
+- About: Free council shopping-centre playgroup at Stockland Point Cook on Thursdays 10am-11.30am, outside Target in the Target Quadrant, for parents and carers with children up to 5. No bookings required.
+- Source: https://www.wyndham.vic.gov.au/services/childrens-services/playgroups
+- Last checked: 2026-11-14
+
 ## Kids' classes
 
 ### Tenshi-Do Martial Arts
@@ -673,9 +700,10 @@
 - Type: Gymnastics
 - Suburb: Melton
 - Ages: All ages (recreational and competitive)
+- Price: Birthday parties $16.50 per head (minimum 10, 2 hours)
 - Website: https://meltongymnastics.com.au/
 - Source: https://meltongymnastics.com.au/
-- Last checked: 2026-11-02
+- Last checked: 2026-11-14
 
 ### BK's Gymnastics Caroline Springs
 - Category: Sport
@@ -704,7 +732,7 @@
 - Type: Swimming
 - Suburb: Caroline Springs
 - Address: 1042 Western Highway, Caroline Springs VIC 3023
-- Ages: Babies and kids
+- Ages: From 3 months, children, and adults
 - Price: $24.50 per lesson
 - Website: https://jumpswimschools.com.au/locations/caroline-springs/
 - Source: https://jumpswimschools.com.au/locations/caroline-springs/
@@ -744,19 +772,23 @@
 - Category: Sport
 - Type: Swimming
 - Suburb: Melton
-- Address: 1a Raleighs Road, Melton 3337; ph (03) 9746 6008
+- Address: 1a Raleighs Road, Melton VIC 3337; ph (03) 9746 6008
 - Ages: From 3
-- Website: https://www.paulsadlerswimland.com/locations-contact/melton/
-- Source: https://www.paulsadlerswimland.com/locations-contact/melton/
-- Last checked: 2026-10-22
+- Days/terms: Mon, Wed and Thu 3.30pm–7.00pm; Tue 9.00am–7.00pm; Fri 3.30pm–7.30pm; Sat 7.30am–12.30pm; Sun closed
+- Website: https://www.paulsadlerswimland.com/locations-contact/
+- Source: https://www.paulsadlerswimland.com/locations-contact/
+- Last checked: 2026-11-14
 
 ### Melton Waves Learn to Swim
 - Category: Sport
 - Type: Swimming
 - Suburb: Melton
+- Address: 206 Coburns Road, Melton VIC 3337
+- Ages: Babies, kids and adults (BlueFit program-wide: infants from 4 months to 3 years, then preschool 3+ through to squad)
+- Price: $22.00 per lesson ($44.00 per fortnight)
 - Website: https://www.meltonwaves.com.au/learn-to-swim
 - Source: https://www.meltonwaves.com.au/learn-to-swim
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### Sunshine Leisure Centre Swim School
 - Category: Sport
@@ -1179,7 +1211,6 @@
 - Suburb: Melton
 - Address: 9/8–10 Norton Drive, Melton
 - Ages: Children and adults
-- Price: Family discounts mentioned
 - Website: https://dojos.au/DDTKD/
 - Source: https://dojos.au/DDTKD/
 - Last checked: 2026-10-15
@@ -1266,8 +1297,8 @@
 - Address: Inside Genesis Fitness Melton
 - Ages: Children of all ages, plus adults
 - Website: https://www.meltonswimschool.com.au/
-- Source: https://www.meltonswimschool.com.au/childrens-lessons.html
-- Last checked: 2026-11-11
+- Source: https://www.meltonswimschool.com.au/contact-us.html
+- Last checked: 2026-11-14
 
 ### JUMP! Swim Schools Truganina
 - Category: Sport
@@ -1275,10 +1306,10 @@
 - Suburb: Truganina
 - Address: 2/25 Infinity Drive, Truganina; ph 0456 225 593
 - Ages: From 6 months
-- Days/terms: 7 days a week; morning and afternoon sessions
+- Price: $23.50 per lesson
 - Website: https://jumpswimschools.com.au/locations/truganina/
 - Source: https://jumpswimschools.com.au/locations/truganina/
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### FLIP Gymnastics Truganina
 - Category: Sport
@@ -1408,7 +1439,7 @@
 - Price: $23.00 per lesson ($46.00 per fortnight)
 - Website: https://www.bluefitswimming.com.au/
 - Source: https://www.bluefitswimming.com.au/enrolment-request-truganina
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### Melton City Little Athletics Centre
 - Category: Sport
@@ -1711,7 +1742,7 @@
 - Days/terms: Mon–Thu 9am–7pm; Sat–Sun 8.30am–12.30pm; Fri closed
 - Website: https://www.paulsadlerswimland.com/locations-contact/
 - Source: https://www.paulsadlerswimland.com/locations-contact/
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### Paul Sadler Swimland Parkwood Green
 - Category: Sport
@@ -1721,7 +1752,7 @@
 - Days/terms: Mon–Fri 9am–7pm; Sat–Sun 8am–12pm
 - Website: https://www.paulsadlerswimland.com/locations-contact/
 - Source: https://www.paulsadlerswimland.com/locations-contact/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### Paul Sadler Swimland Hoppers Crossing
 - Category: Sport
@@ -1731,7 +1762,7 @@
 - Days/terms: Mon–Fri 8.45am–7.45pm; Sat–Sun 7.30am–3pm
 - Website: https://www.paulsadlerswimland.com/locations-contact/
 - Source: https://www.paulsadlerswimland.com/locations-contact/
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### Kingswim Manor Lakes
 - Category: Sport
@@ -1753,7 +1784,7 @@
 - Price: $23.50 per lesson
 - Website: https://jumpswimschools.com.au/locations/melton-south/
 - Source: https://jumpswimschools.com.au/locations/melton-south/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### JUMP! Swim Schools Point Cook
 - Category: Sport
@@ -1765,7 +1796,7 @@
 - Price: $25 per lesson
 - Website: https://jumpswimschools.com.au/locations/point-cook/
 - Source: https://jumpswimschools.com.au/locations/point-cook/
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### JUMP! Swim Schools Tarneit
 - Category: Sport
@@ -1777,7 +1808,7 @@
 - Price: $23.00 per lesson weekdays, $25.00 weekends; adult lesson $25.00; private lesson $70.00
 - Website: https://jumpswimschools.com.au/locations/tarneit/
 - Source: https://jumpswimschools.com.au/locations/tarneit/
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### BK's Gymnastics Hoppers Crossing
 - Category: Sport
@@ -1794,13 +1825,10 @@
 - Category: Sport
 - Type: Swimming
 - Suburb: Hoppers Crossing
-- Address: 4/15 Lentini Street, Hoppers Crossing VIC 3029; ph 03 9369 9438
-- Ages: From 3 months
-- Days/terms: 7 days a week
-- Price: $25 per lesson
+- Address: 4/15 Lentini Street, Hoppers Crossing VIC 3029
 - Website: https://jumpswimschools.com.au/locations/hoppers-crossing/
 - Source: https://jumpswimschools.com.au/locations/hoppers-crossing/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### JUMP! Swim Schools Sayers Road
 - Category: Sport
@@ -1812,7 +1840,7 @@
 - Price: $25 per lesson
 - Website: https://jumpswimschools.com.au/locations/sayers-road/
 - Source: https://jumpswimschools.com.au/locations/sayers-road/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### JUMP! Swim Schools Diggers Rest
 - Category: Sport
@@ -1824,7 +1852,7 @@
 - Price: $24 per lesson
 - Website: https://jumpswimschools.com.au/locations/diggers-rest/
 - Source: https://jumpswimschools.com.au/locations/diggers-rest/
-- Last checked: 2026-11-11
+- Last checked: 2026-11-14
 
 ### Paul Sadler Swimland Altona
 - Category: Sport
@@ -1844,7 +1872,7 @@
 - Ages: Kids
 - Website: https://www.paulsadlerswimland.com/locations-contact/
 - Source: https://www.paulsadlerswimland.com/locations-contact/
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### Little Kickers Truganina
 - Category: Sport
@@ -1924,7 +1952,7 @@
 - Days/terms: Mon, Tue, Thu, Fri afternoons
 - Website: https://www.kumonsearch.com.au/Centre/Kumon-Point-Cook-VIC
 - Source: https://www.kumonsearch.com.au/Centre/Kumon-Point-Cook-VIC
-- Last checked: 2026-10-22
+- Last checked: 2026-11-14
 
 ### Kumon Tarneit Education Centre
 - Category: Tutoring
@@ -1935,6 +1963,146 @@
 - Website: https://www.kumonsearch.com.au/Centre/Kumon-Tarneit-VIC
 - Source: https://www.kumonsearch.com.au/Centre/Kumon-Tarneit-VIC
 - Last checked: 2026-10-22
+
+### Shawn's Swim School
+- Category: Sport
+- Type: Swimming
+- Suburb: Hoppers Crossing
+- Address: 35 Richards Rd, Hoppers Crossing VIC 3029; ph 03 9369 6977
+- Ages: Babies from 4 months through to squad and adults
+- Price: From 5 October 2026: after-school and preschool $27 a week for 1 child, $26.50 each for 2, $26 each for 3 or more; Tadpoles $184 for 8 lessons ($23 per lesson) or $27 a week if only 1 class a week; squad $26 (or $24 if still doing lessons); adults $32; private lessons $60. First child lesson is advertised as free.
+- About: Independent Hoppers Crossing swim school, open since 1994, teaching babies from 4 months through to squad and adults.
+- Website: https://www.shawnsswimschool.com.au/about-us
+- Source: https://www.shawnsswimschool.com.au/new-lesson-fees-from-5-october-2026
+- Last checked: 2026-11-14
+
+### BlueFit Swimming Point Cook
+- Category: Sport
+- Type: Swimming
+- Suburb: Point Cook
+- Address: 1 Kenswick St, Point Cook VIC; ph 1300 252 583
+- Ages: Infants from 4 months to 3 years, then preschool (3+) through to squad (BlueFit program-wide)
+- Price: $26.50 per lesson ($53.00 per fortnight)
+- Website: https://www.bluefitswimming.com.au/enrolment-request-point-cook
+- Source: https://www.bluefitswimming.com.au/enrolment-request-point-cook
+- Last checked: 2026-11-14
+
+### BlueFit Swimming Truganina Central
+- Category: Sport
+- Type: Swimming
+- Suburb: Truganina
+- Address: 2 Shear St, Truganina VIC; ph 1300 252 583
+- Ages: Infants from 4 months to 3 years, then preschool (3+) through to squad (BlueFit program-wide)
+- Price: $25.50 per lesson ($51.00 per fortnight)
+- Website: https://www.bluefitswimming.com.au/enrolment-request-truganina-central
+- Source: https://www.bluefitswimming.com.au/enrolment-request-truganina-central
+- Last checked: 2026-11-14
+
+### BlueFit Swimming Laverton
+- Category: Sport
+- Type: Swimming
+- Suburb: Laverton
+- Address: Laverton Swim and Fitness Centre, Jennings Street, Laverton VIC; ph 1300 252 583
+- Ages: Infants from 4 months to 3 years, then preschool (3+) through to squad (BlueFit program-wide)
+- Price: $25.50 per lesson ($51.00 per fortnight)
+- Website: https://www.bluefitswimming.com.au/enrolment-request-laverton
+- Source: https://www.bluefitswimming.com.au/enrolment-request-laverton
+- Last checked: 2026-11-14
+
+### JUMP! Swim Schools Harpley (Werribee)
+- Category: Sport
+- Type: Swimming
+- Suburb: Werribee
+- Address: Harpley Town Centre, Ison Road, Werribee
+- Ages: From 6 months through to stroke development
+- Price: $26 per lesson
+- About: Boutique heated indoor JUMP! centre at Harpley Town Centre, Werribee, listed as now open.
+- Website: https://jumpswimschools.com.au/locations/harpley/
+- Source: https://jumpswimschools.com.au/locations/harpley/
+- Last checked: 2026-11-14
+
+### Point Cook Dance
+- Category: Dance
+- Type: Recreational and exam-pathway dance
+- Suburb: Point Cook
+- Address: Dunnings Rd Reserve Pavilion, Kingsley Avenue, Point Cook; and Featherbrook Community Centre, 33-35 Windorah Drive, Point Cook. Also VU Fitness Centre, Gate 4, Building 7, 235 Hoppers Lane, Werribee. Ph 0416 679 911
+- Ages: From 3 years (Preschooler DanceFun 3-5; Combination for Preppies 5-6 years) through graded classes to teens
+- Website: https://www.pointcookdance.com.au/
+- Source: https://www.pointcookdance.com.au/timetable/
+- Last checked: 2026-11-14
+
+### Evolve Football Academy (Saltwater Reserve)
+- Category: Sport
+- Type: Soccer
+- Suburb: Point Cook
+- Address: Saltwater Reserve, Point Cook VIC 3030
+- Ages: Mixed groups 3-15; girls-only groups 5-12
+- Price: $350 for a 10-week term (1 session a week); sibling discount $600 for 2 players
+- Website: https://evolvefootball.com.au/group-classes/
+- Source: https://evolvefootball.com.au/group-classes/
+- Last checked: 2026-11-14
+
+### West Point Cricket Club
+- Category: Sport
+- Type: Cricket
+- Suburb: Point Cook
+- Address: 2 Webster St / Webster Street Reserve, Point Cook VIC 3030
+- Ages: Cricket Blast 5-8; junior girls 9-18; junior boys 9-18
+- Website: https://westpointcc.com.au/
+- Source: https://westpointcc.com.au/
+- Last checked: 2026-11-14
+
+### DNTA (Dane Nebel's Tennis Academy) - Saltwater Reserve
+- Category: Sport
+- Type: Tennis
+- Suburb: Point Cook
+- Address: Saltwater Reserve Tennis Centre, 50 Saltwater Promenade, Point Cook VIC 3030; ph 0416 180 989
+- Ages: Juniors and adults; programs include Hot Shots and junior development
+- Website: https://dnta.com.au/
+- Source: https://dnta.com.au/
+- Last checked: 2026-11-14
+
+### Fab Music Studio
+- Category: Music
+- Type: Piano
+- Suburb: Point Cook
+- Address: 270 Boardwalk Boulevard, Point Cook VIC 3030; ph 0430 173 877
+- Ages: Children to adults (students of all ages and abilities)
+- Website: https://fabmusicstudio.com.au/
+- Source: https://fabmusicstudio.com.au/
+- Last checked: 2026-11-14
+
+### Point Cook Football Club Auskick
+- Category: Sport
+- Type: AFL
+- Suburb: Point Cook
+- Address: Saltwater Reserve Synthetic Oval, cnr Point Cook Rd and Saltwater Promenade, Point Cook VIC 3030
+- Ages: Listed as All Ages, with a girls-only group (no narrower age range published on the Auskick page)
+- Days/terms: Saturday morning
+- Website: https://pointcookfc.com.au/auskick/
+- Source: https://pointcookfc.com.au/auskick/
+- Last checked: 2026-11-14
+
+### Tae Ho Martial Arts
+- Category: Martial arts
+- Type: Martial arts
+- Suburb: Point Cook
+- Address: 12A/15 Kenswick, Point Cook VIC 3030 (Tribeca Village Shopping Centre, Saltwater); ph 0402 933 625
+- About: Martial arts studio at Tribeca Village / Saltwater in Point Cook; a free trial is offered on the contact page.
+- Website: https://momentum-gym.com.au/contact-us
+- Source: https://momentum-gym.com.au/contact-us
+- Last checked: 2026-11-14
+
+### Momentum Taekwondo (Point Cook Senior Secondary College)
+- Category: Martial arts
+- Type: Taekwondo
+- Suburb: Point Cook
+- Address: Point Cook Senior Secondary College, Point Cook; ph 0402 933 625
+- Days/terms: Mon, Wed and Sat
+- About: Taekwondo classes at Point Cook Senior Secondary College on Monday, Wednesday and Saturday; a free trial is offered on the contact page.
+- Website: https://momentum-gym.com.au/contact-us
+- Source: https://momentum-gym.com.au/contact-us
+- Last checked: 2026-11-14
 
 ## Birthday parties & party hire
 

@@ -4,7 +4,7 @@
  "dataset": "listings",
  "generated": "2026-11-14",
  "licence_note": "Facts summarised from each provider's public source; please cite Little Westies (littlewesties.au) and the source_url. null = not published by the source.",
- "count": 80,
+ "count": 83,
  "items": [
   {
    "name": "Tenshi-Do Cowabunga School Holiday Program",
@@ -307,23 +307,20 @@
    "subcategory": null,
    "suburb": "Melton",
    "area_served": null,
-   "address": "206 Coburns Road, Melton VIC 3337",
-   "ages": null,
+   "address": "Melton Waves Leisure Centre, 206 Coburns Road, Melton VIC 3337",
+   "ages": "Babies, kids and adults (BlueFit program-wide: infants from 4 months to 3 years, then preschool 3+ through to squad)",
    "days": null,
    "hours": "Centre: Mon–Fri 5am–9pm; Sat, Sun and public holidays 8am–6pm. Gym open 24/7.",
-   "price": null,
+   "price": "$22.00 per lesson ($44.00 per fortnight) for learn-to-swim",
    "description": "Wave pool, warm water pool, 25 m indoor pool, seasonal 50 m outdoor pool and swim school.",
    "facts": [
-    "Notice on the site (11 Nov 2026): the waves in the wave pool are not operating until further notice due to a pump fault; the pool is still open.",
-    "BlueFit Swimming runs learn-to-swim year-round at the centre, with no term breaks, for babies to adults.",
-    "Free Splashtime infant classes are listed.",
-    "Also a gym and group fitness classes (over 50 a week)."
+    "BlueFit Swimming runs the learn-to-swim program at Melton Waves. The Melton Waves learn-to-swim page lists $22.00 per lesson ($44.00 per fortnight)."
    ],
    "website": "https://www.meltonwaves.com.au/learn-to-swim",
    "source_url": "https://www.meltonwaves.com.au/",
-   "facts_source_url": "https://www.meltonwaves.com.au/",
+   "facts_source_url": "https://www.meltonwaves.com.au/learn-to-swim",
    "page_url": "https://littlewesties.au/swimming.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Sunshine Leisure Centre swimming lessons",
@@ -374,10 +371,10 @@
    "suburb": "Hoppers Crossing",
    "area_served": null,
    "address": "80-82 Derrimut Rd, Hoppers Crossing 3029",
-   "ages": null,
+   "ages": "Little Wonders 6–36 months (parent or carer in the water); preschool 3–5 years; school-age and adult programs from 5 years",
    "days": null,
    "hours": "General hours: Mon–Thu 5.30am–9pm, Fri 5.30am–8pm, Sat 7am–6pm, Sun and public holidays 8am–6pm (subject to change).",
-   "price": null,
+   "price": "Enrolment fee $32.20; $27.80 per lesson ($55.60 per direct debit). Prices applicable from 1 July 2026. No minimum term.",
    "description": "Wyndham aquatic centre at 80–82 Derrimut Rd, run by WynActive.",
    "facts": [
     "Wyndham's aquatic and fitness centre, run by WynActive, with pools, waterslides, spa, sauna and steam.",
@@ -389,7 +386,7 @@
    "source_url": "https://wynactive.com.au/visit/aquapulse/",
    "facts_source_url": "https://wynactive.com.au/visit/aquapulse/",
    "page_url": "https://littlewesties.au/swimming.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Preschool Storytime, Caroline Springs Library",
@@ -781,23 +778,20 @@
    "subcategory": null,
    "suburb": "Melton",
    "area_served": null,
-   "address": "Inside Genesis Fitness Melton",
+   "address": "Located at Genesis Fitness Melton, 15-21 Coburns Road, Melton South VIC 3338; ph 03 9747 4000",
    "ages": "Children of all ages, plus adults",
    "days": null,
    "hours": null,
    "price": null,
-   "description": "Swim and Survive (Royal Life Saving) lessons for children of all ages and adults; book by phone on 03 9747 4000.",
+   "description": "Swim and Survive (Royal Life Saving) lessons for children of all ages and adults, located at Genesis Fitness Melton, 15-21 Coburns Road, Melton South; book by phone on 03 9747 4000.",
    "facts": [
-    "Lessons follow Royal Life Saving Society Australia's water safety initiative, with learning built into games and fun activities.",
-    "All instructors are qualified; lessons are offered for adults as well as children.",
-    "Bookings and prices by phone on 03 9747 4000.",
-    "Melton Swim School was Life Saving Victoria's 2017 'Swim and Survive' licensee of the year."
+    "The school's contact page lists the venue as Genesis Fitness Melton at 15-21 Coburns Road, Melton South. A lesson price was not published on the pages checked."
    ],
    "website": "https://www.meltonswimschool.com.au/",
-   "source_url": "https://www.meltonswimschool.com.au/childrens-lessons.html",
-   "facts_source_url": "https://www.meltonswimschool.com.au/childrens-lessons.html",
+   "source_url": "https://www.meltonswimschool.com.au/contact-us.html",
+   "facts_source_url": "https://www.meltonswimschool.com.au/contact-us.html",
    "page_url": "https://littlewesties.au/swimming.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "JUMP! Swim Schools Truganina",
@@ -806,22 +800,20 @@
    "suburb": "Truganina",
    "area_served": null,
    "address": "2/25 Infinity Drive, Truganina; ph 0456 225 593",
-   "ages": "From 6 months",
-   "days": "7 days a week; morning and afternoon sessions",
+   "ages": "From 6 months through to stroke development (parent-and-child classes listed for babies 6 months to 4 years)",
+   "days": null,
    "hours": null,
    "price": "$23.50 per lesson",
-   "description": "Boutique heated indoor pool at 2/25 Infinity Drive, with parent-and-child classes for babies, then independent swimmers and stroke development.",
+   "description": "Boutique heated indoor learn-to-swim centre on Infinity Drive, Truganina, now open.",
    "facts": [
-    "Lessons can be booked online from JUMP's Truganina page.",
-    "Learn to swim from 6 months through to stroke development.",
-    "Classes run 7 days a week with morning and afternoon sessions; group and private lessons are available.",
-    "The pool uses a UV/Ozone (AOP) disinfection system."
+    "JUMP!'s Truganina page lists this centre as open, at $23.50 per lesson.",
+    "Parent-and-child classes are listed for babies aged 6 months to 4 years, then independent swimmers and stroke development."
    ],
    "website": "https://jumpswimschools.com.au/locations/truganina/",
    "source_url": "https://jumpswimschools.com.au/locations/truganina/",
    "facts_source_url": "https://jumpswimschools.com.au/locations/truganina/",
    "page_url": "https://littlewesties.au/swimming.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "Baby Bounce, Melton City Libraries",
@@ -1391,7 +1383,7 @@
    "source_url": "https://www.bluefitswimming.com.au/enrolment-request-truganina",
    "facts_source_url": "https://www.bluefitswimming.com.au/enrolment-request-truganina",
    "page_url": "https://littlewesties.au/swimming.html",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-14"
   },
   {
    "name": "YMCA Taylors Hill School Holiday Program",
@@ -1633,6 +1625,63 @@
    "facts_source_url": "https://www.melton.vic.gov.au/Out-n-About/Leisure-Sport-Recreation/Parks-and-Trails/Parks-Recreation/Norm-Raven-Reserve",
    "page_url": "https://littlewesties.au/parks.html",
    "last_checked": "2026-11-11"
+  },
+  {
+   "name": "Rhyme Time, Point Cook Library",
+   "category": "Free & library",
+   "subcategory": null,
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": null,
+   "ages": null,
+   "days": null,
+   "hours": null,
+   "price": "Free",
+   "description": "Free 30-minute Wyndham City Libraries session of stories, songs and rhymes at Point Cook Library, 1-21 Cheetham Street, for children aged 1-5 years. No bookings required.",
+   "facts": null,
+   "website": null,
+   "source_url": "https://www.wyndham.vic.gov.au/whats-on/rhyme-time-point-cook-library",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/free.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "Story Time, Point Cook Library",
+   "category": "Free & library",
+   "subcategory": null,
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": null,
+   "ages": null,
+   "days": null,
+   "hours": null,
+   "price": "Free",
+   "description": "Free 45-minute stories, rhymes and craft session at Point Cook Library, aimed at children 3+ (younger children welcome if they sit with a parent or carer), including monthly bilingual sessions.",
+   "facts": null,
+   "website": null,
+   "source_url": "https://www.wyndham.vic.gov.au/whats-on/story-time-point-cook-library",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/free.html",
+   "last_checked": "2026-11-14"
+  },
+  {
+   "name": "Stockland Point Cook playgroup (Wyndham City)",
+   "category": "Free & library",
+   "subcategory": null,
+   "suburb": "Point Cook",
+   "area_served": null,
+   "address": null,
+   "ages": null,
+   "days": null,
+   "hours": null,
+   "price": "Free",
+   "description": "Free council shopping-centre playgroup at Stockland Point Cook on Thursdays 10am-11.30am, outside Target in the Target Quadrant, for parents and carers with children up to 5. No bookings required.",
+   "facts": null,
+   "website": null,
+   "source_url": "https://www.wyndham.vic.gov.au/services/childrens-services/playgroups",
+   "facts_source_url": null,
+   "page_url": "https://littlewesties.au/free.html",
+   "last_checked": "2026-11-14"
   }
  ]
 }
