@@ -36,7 +36,7 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 - [This school holidays](https://littlewesties.au/school-holidays.html): Summer 2026–27 school holiday programs and Victorian term dates
 - [How we check listings](https://littlewesties.au/about.html): How each listing is checked against its public source, what last verified means, re-check goals and how to report an error
 - [Kids Activities in Melton (2026)](https://littlewesties.au/kids-activities-melton.html): 28 kids activities in Melton, including sport, dance, martial arts and parties, each checked against its public source.
-- [Kids Activities in Truganina (2026): Sport](https://littlewesties.au/kids-activities-truganina.html): 25 kids activities in Truganina, including sport, parks, free sessions and swimming, each checked against its public source.
+- [Kids Activities Truganina: 23 Places With Prices and Ages (2026)](https://littlewesties.au/kids-activities-truganina.html): 23 kids activities in Truganina, including sport, parks, free sessions and tutoring, each checked against its public source.
 - [Kids Activities in Point Cook (2026): Sport](https://littlewesties.au/kids-activities-point-cook.html): 15 kids activities in Point Cook, including sport, free sessions, swimming and martial arts, each checked against its public source.
 - [Kids Activities in Hoppers Crossing (2026)](https://littlewesties.au/kids-activities-hoppers-crossing.html): 14 kids activities in Hoppers Crossing, including parties, swimming, sport and tutoring, each checked against its public source.
 - [Kids Activities in Aintree (2026): Parks](https://littlewesties.au/kids-activities-aintree.html): 8 kids activities in Aintree, including parks, sport and swimming, each checked against its public source.
@@ -85,7 +85,7 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 
 ## Freshness
 
-- Last updated: 2026-11-14
+- Last updated: 2026-11-16
 - Listings checked against sources between 2026-10-15 and 2026-11-14
 - Each record carries its own last_checked date. The site is rebuilt whenever listings change.
 

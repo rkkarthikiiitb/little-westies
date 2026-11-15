@@ -1,6 +1,6 @@
 # Little Westies: all listings
 
-> Kids' activities in Melbourne's west, Victoria, Australia. Source: https://littlewesties.au/ . Generated 2026-11-14. Missing fields were not published by the source.
+> Kids' activities in Melbourne's west, Victoria, Australia. Source: https://littlewesties.au/ . Generated 2026-11-16. Missing fields were not published by the source.
 
 ## Activities and places
 
@@ -141,6 +141,7 @@
 ### Sunshine Leisure Centre swimming lessons
 - Category: Swimming lessons
 - Suburb: Sunshine
+- Ages: 3–12 months (with a parent); Swim and Survive 6 months–5 years, then 5 years+
 - Days/terms: One 30-minute lesson per week
 - About: Brimbank Leisure Centres learn-to-swim program.
 - Website: https://slc.brimbank.vic.gov.au/aquatics/swimming-lessons
@@ -763,7 +764,7 @@
 - Type: Swimming
 - Suburb: Deer Park
 - Address: 161 Radnor Drive, Deer Park
-- Ages: Kids (small classes)
+- Ages: Babies 3 months–3 years with a parent, then independent and stroke programs
 - Website: https://www.littleswimmersswimschool.com.au/
 - Source: https://www.littleswimmersswimschool.com.au/locations/deer-park
 - Last checked: 2026-11-11
@@ -794,6 +795,7 @@
 - Category: Sport
 - Type: Swimming
 - Suburb: Sunshine
+- Ages: 3–12 months (with a parent); Swim and Survive 6 months–5 years, then 5 years+
 - Days/terms: One 30-minute lesson per week
 - Website: https://slc.brimbank.vic.gov.au/aquatics/swimming-lessons
 - Source: https://slc.brimbank.vic.gov.au/aquatics/swimming-lessons
