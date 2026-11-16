@@ -15,12 +15,12 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 - [Free & library](https://littlewesties.au/free.html): Free & library for kids in Melton, Brimbank and nearby (25 listings)
 - [School holiday programs](https://littlewesties.au/holidays.html): School holiday programs for kids in Melton, Brimbank and nearby (12 listings)
 - [Big days out](https://littlewesties.au/days.html): Big days out for kids in Melton, Brimbank and nearby (3 listings)
-- [Kids' classes](https://littlewesties.au/classes.html): Sport, dance, music and martial arts classes (139 listings), filterable by suburb and age
+- [Kids' classes](https://littlewesties.au/classes.html): Sport, dance, music and martial arts classes (145 listings), filterable by suburb and age
 - [Sport classes](https://littlewesties.au/classes-sport.html): Kids' sport clubs and classes (71 listings)
 - [Dance classes](https://littlewesties.au/classes-dance.html): Kids' dance clubs and classes (17 listings)
-- [Music classes](https://littlewesties.au/classes-music.html): Kids' music clubs and classes (11 listings)
+- [Music classes](https://littlewesties.au/classes-music.html): Kids' music clubs and classes (13 listings)
 - [Martial arts classes](https://littlewesties.au/classes-martial-arts.html): Kids' martial arts clubs and classes (17 listings)
-- [Art classes](https://littlewesties.au/classes-art.html): Kids' art clubs and classes (2 listings)
+- [Art classes](https://littlewesties.au/classes-art.html): Kids' art clubs and classes (6 listings)
 - [Drama classes](https://littlewesties.au/classes-drama.html): Kids' drama clubs and classes (2 listings)
 - [Tutoring classes](https://littlewesties.au/classes-tutoring.html): Kids' tutoring clubs and classes (12 listings)
 - [Early learning classes](https://littlewesties.au/classes-early-learning.html): Kids' early learning clubs and classes (7 listings)
@@ -35,7 +35,7 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 - [Playgrounds in Melton](https://littlewesties.au/playgrounds-melton.html): City of Melton playgrounds and play spaces from Melton City Council pages, with facilities and source links
 - [This school holidays](https://littlewesties.au/school-holidays.html): Summer 2026–27 school holiday programs and Victorian term dates
 - [How we check listings](https://littlewesties.au/about.html): How each listing is checked against its public source, what last verified means, re-check goals and how to report an error
-- [Kids Activities in Melton (2026)](https://littlewesties.au/kids-activities-melton.html): 28 kids activities in Melton, including sport, dance, martial arts and parties, each checked against its public source.
+- [Kids Activities in Melton (2026)](https://littlewesties.au/kids-activities-melton.html): 34 kids activities in Melton, including sport, dance, martial arts and parties, each checked against its public source.
 - [Kids Activities Truganina: 23 Places With Prices and Ages (2026)](https://littlewesties.au/kids-activities-truganina.html): 23 kids activities in Truganina, including sport, parks, free sessions and tutoring, each checked against its public source.
 - [Kids Activities in Point Cook (2026): Sport](https://littlewesties.au/kids-activities-point-cook.html): 15 kids activities in Point Cook, including sport, free sessions, swimming and martial arts, each checked against its public source.
 - [Kids Activities in Hoppers Crossing (2026)](https://littlewesties.au/kids-activities-hoppers-crossing.html): 14 kids activities in Hoppers Crossing, including parties, swimming, sport and tutoring, each checked against its public source.
@@ -50,7 +50,7 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 - [Kids' classes in Caroline Springs](https://littlewesties.au/classes-caroline-springs.html): 22 kids' classes in Caroline Springs, including BK's Gymnastics Caroline Springs, each checked against its public source.
 - [Kids' classes in Deer Park](https://littlewesties.au/classes-deer-park.html): 3 kids' classes in Deer Park, including Deer Park Football Club Juniors and Kumon Deer Park Education Centre, each checked against its public source.
 - [Kids' classes in Hoppers Crossing](https://littlewesties.au/classes-hoppers-crossing.html): 7 kids' classes in Hoppers Crossing, including BK's Gymnastics Hoppers Crossing, each checked against its public source.
-- [Kids' classes in Melton](https://littlewesties.au/classes-melton.html): 18 kids' classes in Melton, including DD Taekwondo, Dancesport Westside and Empower Jiu Jitsu Melton, each checked against its public source.
+- [Kids' classes in Melton](https://littlewesties.au/classes-melton.html): 24 kids' classes in Melton, including Acoustic Guitar – Beginners, Melton South Community Centre, each checked against its public source.
 - [Kids' classes in Point Cook](https://littlewesties.au/classes-point-cook.html): 12 kids' classes in Point Cook, including BlueFit Swimming Point Cook, each checked against its public source.
 - [Kids' classes in Ravenhall](https://littlewesties.au/classes-ravenhall.html): 5 kids' classes in Ravenhall, including CS Music drama lessons and Caroline Springs School of Music, each checked against its public source.
 - [Kids' classes in Rockbank](https://littlewesties.au/classes-rockbank.html): 3 kids' classes in Rockbank, including Aintree Music, Natyatharu School of Dance and Rockbank Kindergarten, each checked against its public source.
@@ -86,7 +86,7 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 ## Freshness
 
 - Last updated: 2026-11-16
-- Listings checked against sources between 2026-10-15 and 2026-11-14
+- Listings checked against sources between 2026-10-15 and 2026-11-16
 - Each record carries its own last_checked date. The site is rebuilt whenever listings change.
 
 ## Optional
