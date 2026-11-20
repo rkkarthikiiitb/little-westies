@@ -80,13 +80,15 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 - [Classes, JSON](https://littlewesties.au/data/classes.json): kids' classes with suburb, address, ages, days, price, website
 - [Parties, JSON](https://littlewesties.au/data/parties.json): party venues and hire with area served, ages, price
 - [This weekend's events, JSON](https://littlewesties.au/data/events.json): dated family events with venue, suburb, price, ages and source url (refreshed weekly)
+- [Listings age and facilities, CSV](https://littlewesties.au/data/listings-age-facilities.csv): age groups and facilities per listing, only where the source states them; blank means not stated
+- [Listings parent tips, CSV](https://littlewesties.au/data/listings-parent-tips.csv): two-sentence parent tips per listing, only where a source backs them up
 - [Full text for LLMs](https://littlewesties.au/llms-full.txt): every listing in plain markdown
 - [Sitemap](https://littlewesties.au/sitemap.xml)
 
 ## Freshness
 
-- Last updated: 2026-11-16
-- Listings checked against sources between 2026-10-15 and 2026-11-16
+- Last updated: 2026-11-20
+- Listings checked against sources between 2026-10-15 and 2026-11-20
 - Each record carries its own last_checked date. The site is rebuilt whenever listings change.
 
 ## Optional
