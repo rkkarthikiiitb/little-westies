@@ -115,7 +115,7 @@ footer p{max-width:820px;margin:0 auto 8px}
 footer .ack{font-weight:800;color:var(--ink);font-size:14px}
 footer::before{content:"";display:block;width:148px;height:14px;margin:0 auto 18px;border-radius:999px;background:radial-gradient(circle,var(--ink) 2.2px,transparent 2.8px) 0 50%/18px 14px repeat-x,var(--peach-border)}
 
-/* Buy Me a Coffee — colourful header strip + chunky orange pill */
+/* Buy Me a Coffee — mint header strip + chunky orange pill */
 footer .bmc-lead{margin:16px auto 8px;color:var(--ink);font-weight:800;font-size:14px}
 footer .bmc-wrap{margin:0 auto 6px}
 .bmc-btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:44px;padding:8px 18px;line-height:1.2;border-radius:999px;border:var(--border-thick);background:var(--orange);color:var(--ink);font-weight:900;text-decoration:none;box-shadow:var(--shadow-sm)}
@@ -123,11 +123,82 @@ footer .bmc-btn{display:inline-flex;line-height:1.2}
 .bmc-btn:hover{background:var(--peach);color:var(--ink);transform:translate(-1px,-1px);box-shadow:5px 5px 0 var(--ink)}
 .bmc-btn:active{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}
 .about .bmc-wrap{margin:14px 0 0;text-align:left}
-.bmc-strip{box-sizing:border-box;background-color:var(--teal);background-image:radial-gradient(circle,#ffe2c6 0 1.7px,transparent 2.1px),radial-gradient(circle,#ff7a45 0 1.5px,transparent 1.9px),radial-gradient(circle,#d9f0ea 0 1.7px,transparent 2.1px),linear-gradient(90deg,var(--teal-dark),var(--teal) 55%,var(--teal));background-size:48px 36px,64px 40px,42px 32px,100% 100%;background-position:0 4px,22px 16px,14px 10px,0 0;border-top:3px solid var(--mint);border-bottom:3px solid var(--ink);color:var(--cream);text-align:center;padding:0 max(16px,calc((100% - 1120px)/2 + 16px))}
-.bmc-strip p{box-sizing:border-box;margin:0 auto;display:inline-flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:8px 12px;min-height:50px;padding:4px 16px;font-size:14px;font-weight:800;line-height:1.3;color:var(--cream);background:var(--teal);border-radius:999px;max-width:100%}
+.bmc-strip{
+  box-sizing:border-box;
+  position:relative;
+  overflow:hidden;
+  background:#d9f0ea;
+  background-image:none;
+  border-top:3px solid var(--ink);
+  border-bottom:3px solid var(--ink);
+  color:var(--teal-dark);
+  text-align:center;
+  padding:0 max(16px,calc((100% - 1120px)/2 + 16px));
+}
+.bmc-strip::before,
+.bmc-strip::after{
+  content:"";
+  position:absolute;
+  top:0;bottom:0;
+  width:min(180px,18vw);
+  pointer-events:none;
+  z-index:0;
+  background-image:
+    radial-gradient(circle,#ff7a45 0 2.2px,transparent 2.6px),
+    radial-gradient(circle,#ffe2c6 0 2.6px,transparent 3px),
+    radial-gradient(circle,#ff7a45 0 1.5px,transparent 1.9px);
+  background-size:36px 28px, 48px 32px, 28px 22px;
+  background-repeat:repeat;
+}
+.bmc-strip::before{
+  left:0;
+  background-position:8px 6px, 22px 16px, 4px 20px;
+  -webkit-mask-image:linear-gradient(to right,#000 35%,transparent);
+  mask-image:linear-gradient(to right,#000 35%,transparent);
+}
+.bmc-strip::after{
+  right:0;
+  background-position:10px 10px, 0 4px, 18px 18px;
+  -webkit-mask-image:linear-gradient(to left,#000 35%,transparent);
+  mask-image:linear-gradient(to left,#000 35%,transparent);
+}
+.bmc-strip p{
+  box-sizing:border-box;
+  position:relative;
+  z-index:1;
+  margin:0 auto;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  flex-wrap:wrap;
+  gap:8px 12px;
+  min-height:50px;
+  padding:4px 16px;
+  font-size:14px;
+  font-weight:800;
+  line-height:1.3;
+  color:var(--teal-dark);
+  background:#d9f0ea;
+  border-radius:999px;
+  max-width:100%;
+  text-shadow:none;
+}
 .bmc-strip p::before{content:"☕";font-size:1.15em;line-height:1}
 .bmc-btn-sm{min-height:34px;padding:3px 14px;font-size:13px;white-space:nowrap}
-@media (max-width:640px){.bmc-strip p{min-height:0;padding:10px 8px;width:100%;display:flex;background:transparent;border-radius:0;text-shadow:0 1px 0 rgba(0,0,0,.28)}}
+@media (max-width:640px){
+  .bmc-strip::before,
+  .bmc-strip::after{width:52px}
+  .bmc-strip p{
+    min-height:0;
+    padding:10px 12px;
+    width:auto;
+    max-width:calc(100% - 8px);
+    display:inline-flex;
+    background:#d9f0ea;
+    border-radius:18px;
+    text-shadow:none;
+  }
+}
 
 /* ---------- Motion / mobile ---------- */
 .tile,.btn,.signup button,article,.logo,.bmc-btn{transition:transform .15s ease,box-shadow .15s ease,background .15s ease}
