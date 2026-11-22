@@ -115,8 +115,17 @@ footer p{max-width:820px;margin:0 auto 8px}
 footer .ack{font-weight:800;color:var(--ink);font-size:14px}
 footer::before{content:"";display:block;width:148px;height:14px;margin:0 auto 18px;border-radius:999px;background:radial-gradient(circle,var(--ink) 2.2px,transparent 2.8px) 0 50%/18px 14px repeat-x,var(--peach-border)}
 
+/* Buy Me a Coffee — understated footer + About support */
+footer .bmc-lead{margin:16px auto 8px;color:var(--ink);font-weight:800;font-size:14px}
+footer .bmc-wrap{margin:0 auto 4px}
+.bmc-btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:44px;padding:8px 18px;line-height:1.2;border-radius:999px;border:2px solid var(--orange);background:var(--peach);color:var(--teal-dark);font-weight:800;text-decoration:none;box-shadow:3px 3px 0 var(--ink)}
+footer .bmc-btn{display:inline-flex;line-height:1.2}
+.bmc-btn:hover{background:#fff;color:var(--teal-dark);transform:translate(-1px,-1px);box-shadow:4px 4px 0 var(--ink)}
+.bmc-btn:active{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}
+.about .bmc-wrap{margin:14px 0 0;text-align:left}
+
 /* ---------- Motion / mobile ---------- */
-.tile,.btn,.signup button,article,.logo{transition:transform .15s ease,box-shadow .15s ease,background .15s ease}
+.tile,.btn,.signup button,article,.logo,.bmc-btn{transition:transform .15s ease,box-shadow .15s ease,background .15s ease}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}
 @media (max-width:640px){
   header{position:static;padding:12px 14px}
