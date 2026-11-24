@@ -1,1 +1,111 @@
-{"checked":"2026-11-20","count":5,"dataset":"events","excluded":[{"name":"Family Tales, Melton Libraries","reason":"No session on 21 Nov; next session 28 Nov.","url":"https://libraryevents.melton.vic.gov.au/"},{"name":"Point Cook Rhyme Time","reason":"Next Saturday session is 28 Nov, not 21 Nov.","url":"https://www.wyndham.vic.gov.au/whats-on/rhyme-time-hoppers-crossing-library"},{"name":"Science Studio – Taking Flight, Scienceworks","reason":"Not on 21 Nov.","url":"https://museumsvictoria.com.au/scienceworks/whats-on/science-studio-taking-flight/"},{"name":"Brimbank Art and Design for Kids, Deer Park","reason":"$96 for a 6-session term, not a drop-in weekend event.","url":"https://events.brimbank.vic.gov.au/"},{"name":"Midnight At The Museum, Unite Dance Studio showcase","reason":"Sun 22 Nov 11:30am–2:20pm verified on Wyndham City, but venue and ticket price were not stated on that page — needs a venue/ticket check before listing.","url":"https://www.wyndham.vic.gov.au/whats-on/midnight-museum-end-year-showcase-2026"}],"items":[{"address":"Pacific Werribee Shopping Centre, Level 1, Derrimut Road, Hoppers Crossing","ages":"1–5","description":"A 30-minute session of stories, songs, actions and rhymes. No bookings required. Younger siblings welcome.","end":"2026-11-21T10:45:00+11:00","last_checked":"2026-11-20","name":"Rhyme Time","organiser":"Wyndham City Libraries","price":"Free","source_label":"Wyndham City","start":"2026-11-21T10:15:00+11:00","suburb":"Hoppers Crossing","url":"https://www.wyndham.vic.gov.au/whats-on/rhyme-time-hoppers-crossing-library","venue":"Hoppers Crossing Library","when":"Sat 21 Nov, 10:15–10:45am"},{"address":"29–35 Lake St, Caroline Springs 3023","ages":null,"description":"Guess who's coming to town!? Santa will be making his grand arrival at CS Square at 10:30am outside Woolworths.","end":null,"last_checked":"2026-11-20","name":"Santa's Arrival Parade at CS Square","organiser":"Melton City Council","price":null,"source_label":"Melton City Council","start":"2026-11-21T10:30:00+11:00","suburb":"Caroline Springs","url":"https://www.melton.vic.gov.au/Out-n-About/Events/Christmas-in-the-City-of-Melton","venue":"CS Square","when":"Sat 21 Nov, 10:30am"},{"address":"Wedge St Piazza, Werribee","ages":null,"description":"Free face painting and temporary tattoos, giveaways and prizes, and hands-on CPR and AED experiences in the CPR Lab. No bookings required — drop in.","end":"2026-11-21T16:00:00+11:00","last_checked":"2026-11-20","name":"Defib In Your Street Werribee Community Day","organiser":"St John Ambulance Victoria","price":"Free","source_label":"Wyndham City","start":"2026-11-21T10:00:00+11:00","suburb":"Werribee","url":"https://www.wyndham.vic.gov.au/whats-on/defib-your-street-werribee-community-day","venue":"Wedge St Piazza","when":"Sat 21 Nov, 10am–4pm"},{"address":"487 Eynesbury Road, Eynesbury 3338","ages":null,"description":"Home-grown/handmade farmers, producers and makers selling directly to the public. Fourth Sunday of the month.","end":"2026-11-22T14:00:00+11:00","last_checked":"2026-11-20","name":"Eynesbury Market","organiser":"Urban Markets","price":null,"source_label":"Melton City Council","start":"2026-11-22T09:00:00+11:00","suburb":"Eynesbury","url":"https://www.melton.vic.gov.au/Out-n-About/Events/Events-Calendar/Eynesbury-Market","venue":"Eynesbury Homestead","when":"Sun 22 Nov, 9am–2pm"},{"address":"O'Shannassy St & Brook St, Sunbury","ages":null,"description":"Free family street festival, live entertainment and family activities.","end":"2026-11-22T16:00:00+11:00","last_checked":"2026-11-20","name":"Sunbury StreetLife Festival","organiser":"Sunbury StreetLife Festival","price":"Free (some children's activities may have a small cost)","source_label":"Sunbury StreetLife Festival (organiser page)","start":"2026-11-22T10:00:00+11:00","suburb":"Sunbury","url":"https://sunburystreetlife.org.au/faq/","venue":"O'Shannassy Street & Brook Street","when":"Sun 22 Nov, 10am–4pm"}],"licence_note":"Facts from each event's source page; please cite Little Westies (littlewesties.au) and the url. null = not stated by the source.","source":"Little Westies","url":"https://littlewesties.au/weekend.html","weekend":["2026-11-21","2026-11-22"]}
+{
+  "checked": "2026-11-24",
+  "count": 5,
+  "dataset": "events",
+  "excluded": [
+    {
+      "name": "Rhyme Time, Hoppers Crossing Library",
+      "reason": "Not on Sat 28 Nov — fortnightly Saturdays were 7 and 21 Nov; next session 5 Dec.",
+      "url": "https://www.wyndham.vic.gov.au/whats-on/rhyme-time-hoppers-crossing-library"
+    },
+    {
+      "name": "Final Call – Presented by DNA, Wyndham Cultural Centre, Werribee",
+      "reason": "Ticketed show on Sun 29 Nov (1pm and 6pm); ticket price not verified, so not listed as a free pick.",
+      "url": "https://www.wyndham.vic.gov.au/services/arts-culture/wyndham-cultural-centre?language=is"
+    },
+    {
+      "name": "The Movement Project, Truganina",
+      "reason": "A regular class (Sat 28 Nov, 9–11am, ages 4–11), not a one-off weekend event.",
+      "url": null
+    }
+  ],
+  "items": [
+    {
+      "address": "Pop-Up Park to the Santa Set near Target, Stockland Point Cook, Point Cook",
+      "ages": null,
+      "description": "Santa's grand arrival parade with Mrs Claus, festive helpers, Thing One, Thing Two and the Cat in the Hat. Storytime with Mrs Claus and Christmas crafts continue after the parade; Santa photos at the Santa Set through to Christmas Eve.",
+      "end": "2026-11-28T11:00:00+11:00",
+      "last_checked": "2026-11-24",
+      "name": "Santa's Arrival Parade",
+      "organiser": "Stockland Point Cook",
+      "price": "Free",
+      "source_label": "Wyndham City",
+      "start": "2026-11-28T10:00:00+11:00",
+      "suburb": "Point Cook",
+      "url": "https://www.wyndham.vic.gov.au/whats-on/santas-arrival-parade-stockland-point-cook",
+      "venue": "Stockland Point Cook",
+      "when": "Sat 28 Nov, 10–11am"
+    },
+    {
+      "address": "31 McKenzie St, Melton VIC 3337",
+      "ages": "0–8",
+      "description": "Stories, songs and rhymes for ages 0–8, with Read, Sing, Chat points. No booking needed — just turn up.",
+      "end": "2026-11-28T11:30:00+11:00",
+      "last_checked": "2026-11-24",
+      "name": "Family Tales",
+      "organiser": "Melton Libraries",
+      "price": null,
+      "source_label": "Melton Libraries",
+      "start": "2026-11-28T11:00:00+11:00",
+      "suburb": "Melton",
+      "url": "https://libraryevents.melton.vic.gov.au/event?id=251165",
+      "venue": "Melton Library & Learning Hub",
+      "when": "Sat 28 Nov, 11–11:30am"
+    },
+    {
+      "address": "2 Recreation Road, Aintree 3336",
+      "ages": null,
+      "description": "Inaugural market with local makers, small businesses and food vendors, plus free kids' face painting.",
+      "end": "2026-11-29T15:00:00+11:00",
+      "last_checked": "2026-11-24",
+      "name": "Aintree Community Market",
+      "organiser": "Melton City Council",
+      "price": "Free entry",
+      "source_label": "Melton City Council",
+      "start": "2026-11-29T10:00:00+11:00",
+      "suburb": "Aintree",
+      "url": "https://www.melton.vic.gov.au/Out-n-About/Events/Events-Calendar/Aintree-Community-Market",
+      "venue": "Aintree North Recreation Reserve Playground",
+      "when": "Sun 29 Nov, 10am–3pm"
+    },
+    {
+      "address": "Clarke St (car park next to VicRoads), Sunshine",
+      "ages": null,
+      "description": "Brimbank's biggest Christmas celebration in its new Clarke St location: Teeny Tiny Stevies, Damo Music for Kids, Santa, an animal farm, face painting, circus and roving performers, African drumming, arts and crafts and a sensory lounge. No food trucks — eat at local cafes on Clarke St or Hampshire Rd.",
+      "end": "2026-11-29T15:00:00+11:00",
+      "last_checked": "2026-11-24",
+      "name": "Festive Fun Day",
+      "organiser": "Brimbank City Council",
+      "price": "Free",
+      "source_label": "Brimbank City Council",
+      "start": "2026-11-29T11:00:00+11:00",
+      "suburb": "Sunshine",
+      "url": "https://events.brimbank.vic.gov.au/festive-fun-day-2026/",
+      "venue": "Clarke Street",
+      "when": "Sun 29 Nov, 11am–3pm"
+    },
+    {
+      "address": "Adelphi Blvd, Point Cook VIC 3030",
+      "ages": null,
+      "description": "Free community music series in the pop-up park, with dinner specials from local traders and free kids' activities.",
+      "end": "2026-11-29T18:00:00+11:00",
+      "last_checked": "2026-11-24",
+      "name": "Sundays at Soho Village",
+      "organiser": "Soho Village",
+      "price": "Free",
+      "source_label": "Wyndham City",
+      "start": "2026-11-29T15:00:00+11:00",
+      "suburb": "Point Cook",
+      "url": "https://www.wyndham.vic.gov.au/whats-on/sundays-soho-village",
+      "venue": "Soho Village Pop Up Park",
+      "when": "Sun 29 Nov, 3–6pm"
+    }
+  ],
+  "licence_note": "Facts from each event's source page; please cite Little Westies (littlewesties.au) and the url. null = not stated by the source.",
+  "source": "Little Westies",
+  "url": "https://littlewesties.au/weekend.html",
+  "weekend": [
+    "2026-11-28",
+    "2026-11-29"
+  ]
+}
