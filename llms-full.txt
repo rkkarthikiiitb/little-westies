@@ -711,11 +711,11 @@
 - Type: Gymnastics
 - Suburb: Caroline Springs
 - Address: 1042 Western Hwy, Caroline Springs VIC 3023
-- Ages: 1–13+
+- Ages: 0–8
 - Days/terms: Enrolment open all year
 - Website: https://bksgymnastics.com.au/centre/caroline-springs/
 - Source: https://bksgymnastics.com.au/centre/caroline-springs/
-- Last checked: 2026-11-11
+- Last checked: 2026-11-27
 
 ### Gymnastics Unlimited Australia
 - Category: Sport
