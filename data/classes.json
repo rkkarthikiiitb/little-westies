@@ -4,7 +4,7 @@
  "dataset": "classes",
  "generated": "2026-11-16",
  "licence_note": "Facts summarised from each provider's public source; please cite Little Westies (littlewesties.au) and the source_url. null = not published by the source.",
- "count": 145,
+ "count": 144,
  "items": [
   {
    "name": "Tenshi-Do Martial Arts",
@@ -770,25 +770,6 @@
    "facts_source_url": "https://westendperformingarts.com.au/",
    "page_url": "https://littlewesties.au/classes-dance.html",
    "last_checked": "2026-11-11"
-  },
-  {
-   "name": "Sunshine Dance Centre",
-   "category": "Dance",
-   "subcategory": "Dance",
-   "suburb": "Burnside",
-   "area_served": null,
-   "address": null,
-   "ages": "Children",
-   "days": null,
-   "hours": null,
-   "price": null,
-   "description": null,
-   "facts": null,
-   "website": "https://www.sunshinedancecentre.com.au/classes/",
-   "source_url": "https://www.sunshinedancecentre.com.au/classes/",
-   "facts_source_url": null,
-   "page_url": "https://littlewesties.au/classes-dance.html",
-   "last_checked": "2026-10-15"
   },
   {
    "name": "The Dance Society",

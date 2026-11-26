@@ -16,9 +16,9 @@ Notes for agents: "not listed"/null means the provider did not publish that deta
 - [School holiday programs](https://littlewesties.au/holidays.html): School holiday programs for kids in Melton, Brimbank and nearby (12 listings)
 - [Big days out](https://littlewesties.au/days.html): Big days out for kids in Melton, Brimbank and nearby (3 listings)
 - [Rainy day kids activities](https://littlewesties.au/rainy-day-kids-activities-melbourne-west.html): Indoor places for a wet day — Scienceworks, play centres, swim schools, gymnastics and free library sessions, with prices checked
-- [Kids' classes](https://littlewesties.au/classes.html): Sport, dance, music and martial arts classes (145 listings), filterable by suburb and age
+- [Kids' classes](https://littlewesties.au/classes.html): Sport, dance, music and martial arts classes (144 listings), filterable by suburb and age
 - [Sport classes](https://littlewesties.au/classes-sport.html): Kids' sport clubs and classes (71 listings)
-- [Dance classes](https://littlewesties.au/classes-dance.html): Kids' dance clubs and classes (17 listings)
+- [Dance classes](https://littlewesties.au/classes-dance.html): Kids' dance clubs and classes (16 listings)
 - [Music classes](https://littlewesties.au/classes-music.html): Kids' music clubs and classes (13 listings)
 - [Martial arts classes](https://littlewesties.au/classes-martial-arts.html): Kids' martial arts clubs and classes (17 listings)
 - [Art classes](https://littlewesties.au/classes-art.html): Kids' art clubs and classes (6 listings)

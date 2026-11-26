@@ -1053,16 +1053,6 @@
 - Website: https://westendperformingarts.com.au/
 - Source: https://westendperformingarts.com.au/
 - Last checked: 2026-11-11
-
-### Sunshine Dance Centre
-- Category: Dance
-- Type: Dance
-- Suburb: Burnside
-- Ages: Children
-- Website: https://www.sunshinedancecentre.com.au/classes/
-- Source: https://www.sunshinedancecentre.com.au/classes/
-- Last checked: 2026-10-15
-
 ### The Dance Society
 - Category: Dance
 - Type: Dance
