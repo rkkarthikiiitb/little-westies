@@ -1,1 +1,133 @@
-{"checked":"2026-11-20","count":5,"dataset":"events","excluded":[{"name":"Family Tales, Melton Libraries","reason":"No session on 21 Nov; next session 28 Nov.","url":"https://libraryevents.melton.vic.gov.au/"},{"name":"Point Cook Rhyme Time","reason":"Next Saturday session is 28 Nov, not 21 Nov.","url":"https://www.wyndham.vic.gov.au/whats-on/rhyme-time-hoppers-crossing-library"},{"name":"Science Studio – Taking Flight, Scienceworks","reason":"Not on 21 Nov.","url":"https://museumsvictoria.com.au/scienceworks/whats-on/science-studio-taking-flight/"},{"name":"Brimbank Art and Design for Kids, Deer Park","reason":"$96 for a 6-session term, not a drop-in weekend event.","url":"https://events.brimbank.vic.gov.au/"},{"name":"Midnight At The Museum, Unite Dance Studio showcase","reason":"Sun 22 Nov 11:30am–2:20pm verified on Wyndham City, but venue and ticket price were not stated on that page — needs a venue/ticket check before listing.","url":"https://www.wyndham.vic.gov.au/whats-on/midnight-museum-end-year-showcase-2026"}],"items":[{"address":"Pacific Werribee Shopping Centre, Level 1, Derrimut Road, Hoppers Crossing","ages":"1–5","description":"A 30-minute session of stories, songs, actions and rhymes. No bookings required. Younger siblings welcome.","end":"2026-11-21T10:45:00+11:00","last_checked":"2026-11-20","name":"Rhyme Time","organiser":"Wyndham City Libraries","price":"Free","source_label":"Wyndham City","start":"2026-11-21T10:15:00+11:00","suburb":"Hoppers Crossing","url":"https://www.wyndham.vic.gov.au/whats-on/rhyme-time-hoppers-crossing-library","venue":"Hoppers Crossing Library","when":"Sat 21 Nov, 10:15–10:45am"},{"address":"29–35 Lake St, Caroline Springs 3023","ages":null,"description":"Guess who's coming to town!? Santa will be making his grand arrival at CS Square at 10:30am outside Woolworths.","end":null,"last_checked":"2026-11-20","name":"Santa's Arrival Parade at CS Square","organiser":"Melton City Council","price":null,"source_label":"Melton City Council","start":"2026-11-21T10:30:00+11:00","suburb":"Caroline Springs","url":"https://www.melton.vic.gov.au/Out-n-About/Events/Christmas-in-the-City-of-Melton","venue":"CS Square","when":"Sat 21 Nov, 10:30am"},{"address":"Wedge St Piazza, Werribee","ages":null,"description":"Free face painting and temporary tattoos, giveaways and prizes, and hands-on CPR and AED experiences in the CPR Lab. No bookings required — drop in.","end":"2026-11-21T16:00:00+11:00","last_checked":"2026-11-20","name":"Defib In Your Street Werribee Community Day","organiser":"St John Ambulance Victoria","price":"Free","source_label":"Wyndham City","start":"2026-11-21T10:00:00+11:00","suburb":"Werribee","url":"https://www.wyndham.vic.gov.au/whats-on/defib-your-street-werribee-community-day","venue":"Wedge St Piazza","when":"Sat 21 Nov, 10am–4pm"},{"address":"487 Eynesbury Road, Eynesbury 3338","ages":null,"description":"Home-grown/handmade farmers, producers and makers selling directly to the public. Fourth Sunday of the month.","end":"2026-11-22T14:00:00+11:00","last_checked":"2026-11-20","name":"Eynesbury Market","organiser":"Urban Markets","price":null,"source_label":"Melton City Council","start":"2026-11-22T09:00:00+11:00","suburb":"Eynesbury","url":"https://www.melton.vic.gov.au/Out-n-About/Events/Events-Calendar/Eynesbury-Market","venue":"Eynesbury Homestead","when":"Sun 22 Nov, 9am–2pm"},{"address":"O'Shannassy St & Brook St, Sunbury","ages":null,"description":"Free family street festival, live entertainment and family activities.","end":"2026-11-22T16:00:00+11:00","last_checked":"2026-11-20","name":"Sunbury StreetLife Festival","organiser":"Sunbury StreetLife Festival","price":"Free (some children's activities may have a small cost)","source_label":"Sunbury StreetLife Festival (organiser page)","start":"2026-11-22T10:00:00+11:00","suburb":"Sunbury","url":"https://sunburystreetlife.org.au/faq/","venue":"O'Shannassy Street & Brook Street","when":"Sun 22 Nov, 10am–4pm"}],"licence_note":"Facts from each event's source page; please cite Little Westies (littlewesties.au) and the url. null = not stated by the source.","source":"Little Westies","url":"https://littlewesties.au/weekend.html","weekend":["2026-11-21","2026-11-22"]}
+{
+ "source": "Little Westies",
+ "url": "https://littlewesties.au/weekend.html",
+ "dataset": "events",
+ "weekend": [
+  "2026-11-28",
+  "2026-11-29"
+ ],
+ "checked": "2026-11-26",
+ "licence_note": "Facts from each event's source page; please cite Little Westies (littlewesties.au) and the url. null = not stated by the source.",
+ "count": 7,
+ "items": [
+  {
+   "name": "St Andrew's Parish Fair",
+   "start": "2026-11-28T10:00:00+11:00",
+   "end": "2026-11-28T16:00:00+11:00",
+   "when": "Sat 28 Nov, 10am–4pm",
+   "venue": "St Andrew's Primary School",
+   "address": "105 Greaves St North, Werribee",
+   "suburb": "Werribee",
+   "price": "Free entry (ride tickets extra)",
+   "ages": null,
+   "description": "A parish fair with rides, food stalls, games and activities and a singing competition. Entry is free for everyone.",
+   "source_label": "St Andrew's Parish Werribee (organiser page)",
+   "url": "https://melbcatholic.org/werribee/news/parish-fair-2026-28-nov-2026",
+   "organiser": "St Andrew's Parish, Werribee",
+   "last_checked": "2026-11-26"
+  },
+  {
+   "name": "Rhyme Time",
+   "start": "2026-11-28T10:15:00+11:00",
+   "end": "2026-11-28T10:45:00+11:00",
+   "when": "Sat 28 Nov, 10:15–10:45am",
+   "venue": "Point Cook Library",
+   "address": "1–21 Cheetham Street, Point Cook",
+   "suburb": "Point Cook",
+   "price": null,
+   "ages": "1–5",
+   "description": "A 30-minute session of stories, songs, actions and rhymes. You must have a child aged 1–5 years.",
+   "source_label": "Wyndham City",
+   "url": "https://www.wyndham.vic.gov.au/services/libraries/early-years/early-years-events",
+   "organiser": "Wyndham City Libraries",
+   "last_checked": "2026-11-26"
+  },
+  {
+   "name": "Family Tales",
+   "start": "2026-11-28T11:00:00+11:00",
+   "end": "2026-11-28T11:30:00+11:00",
+   "when": "Sat 28 Nov, 11–11:30am",
+   "venue": "Melton Library & Learning Hub",
+   "address": "31 McKenzie St, Melton",
+   "suburb": "Melton",
+   "price": "Free",
+   "ages": "0–8",
+   "description": "Stories, songs and rhymes for families. No booking needed.",
+   "source_label": "Melton City Libraries",
+   "url": "https://libraryevents.melton.vic.gov.au/event?id=251165",
+   "organiser": "Melton City Libraries",
+   "last_checked": "2026-11-26"
+  },
+  {
+   "name": "Christmas Festival at Jack's Magazine",
+   "start": "2026-11-28T11:00:00+11:00",
+   "end": "2026-11-28T15:00:00+11:00",
+   "when": "Sat 28 Nov, 11am–3pm",
+   "venue": "Jack's Magazine",
+   "address": "Magazine Way, Maribyrnong",
+   "suburb": "Maribyrnong",
+   "price": "Adults $12; children free",
+   "ages": "All ages (best for 3–12)",
+   "description": "Stalls from local makers, live music and choirs, a visit from Santa, pony rides, puppet shows, wildlife encounters and heritage tours of a former 1870s explosives store. Tickets at the gate or on Humanitix.",
+   "source_label": "Humanitix (organiser ticket page)",
+   "url": "https://events.humanitix.com/christmas-festival-at-jack-s-magazine",
+   "organiser": "Jack's Magazine",
+   "last_checked": "2026-11-26"
+  },
+  {
+   "name": "Movies in the Park – SING",
+   "start": "2026-11-28T17:00:00+11:00",
+   "end": "2026-11-28T20:00:00+11:00",
+   "when": "Sat 28 Nov, 5–8pm (movie starts 6pm)",
+   "venue": "Williams Landing Activation Space",
+   "address": "Kendall Street, Williams Landing",
+   "suburb": "Williams Landing",
+   "price": "Free",
+   "ages": null,
+   "description": "Free outdoor cinema with free popcorn and entertainment from 5pm. Bring a picnic rug or chairs. No booking needed. May be cancelled or rescheduled in poor weather.",
+   "source_label": "Wyndham City",
+   "url": "https://www.wyndham.vic.gov.au/movies-park",
+   "organiser": "Wyndham City",
+   "last_checked": "2026-11-26"
+  },
+  {
+   "name": "JingleJam Christmas Event",
+   "start": "2026-11-29T09:00:00+11:00",
+   "end": "2026-11-29T10:00:00+11:00",
+   "when": "Sun 29 Nov, 9am, 11am and 5pm",
+   "venue": "Werribee Baptist Church (Catalyst)",
+   "address": "225 Heaths Road, Werribee",
+   "suburb": "Werribee",
+   "price": "Free (no booking needed)",
+   "ages": "All ages",
+   "description": "A family Christmas show with live music, dancing and surprises. After the 9am and 11am shows there are outdoor lawn games, craft stations, a scavenger hunt, bubble and balloon animals.",
+   "source_label": "Catalyst Baptist (organiser page)",
+   "url": "https://www.catalystbaptist.org.au/events/jinglejam-christmas-event/2026-11-29",
+   "organiser": "Catalyst Baptist, Werribee",
+   "last_checked": "2026-11-26"
+  },
+  {
+   "name": "Festive Fun Day 2026",
+   "start": "2026-11-29T11:00:00+11:00",
+   "end": "2026-11-29T15:00:00+11:00",
+   "when": "Sun 29 Nov, 11am–3pm",
+   "venue": "Clarke St car park (next to VicRoads)",
+   "address": "Clarke St, Sunshine",
+   "suburb": "Sunshine",
+   "price": "Free",
+   "ages": "All ages",
+   "description": "Brimbank's Christmas celebration with Teeny Tiny Stevies, Damo Music for Kids, a visit from Santa, Farmer Darryl's animal farm, live butterflies, face painting, a festive trail scavenger hunt and a sensory lounge.",
+   "source_label": "Brimbank City Council",
+   "url": "https://events.brimbank.vic.gov.au/festive-fun-day-2026/",
+   "organiser": "Brimbank City Council",
+   "last_checked": "2026-11-26"
+  }
+ ],
+ "excluded": [
+  {
+   "name": "Williamstown Beer and Cider Festival (Sat 28 Nov, Seaworks)",
+   "reason": "A licensed beer and cider festival for adults. Children can attend free but it is not a kids' event.",
+   "url": "https://www.willybeerfest.com.au/"
+  }
+ ]
+}
